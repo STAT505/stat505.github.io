@@ -2,144 +2,143 @@
 
 ### Introduction: Git, R Studio, and the Tidyverse
 ##### Week One
-- Monday January 13: [Lecture 1 - Course Overview and Tidyverse Intro](https://stat506.github.io/Lecture1/)
+- Monday August 17: [Lecture 1 - Course Overview and Tidyverse Intro](https://stat506.github.io/Lecture1/)
 
-- Wednesday January 15: Tenure Track Assistant Professor Presentation
+- Wednesday August 19: 
 
-- Friday January 17: [Lecture 2 - Git Demo](https://stat506.github.io/Lecture2/)
+- Friday August 21: [Lecture 2 - Git Demo](https://stat506.github.io/Lecture2/)
 
 ### ANOVA and Linear Regression
 ##### Week Two
-- Monday January 20: __No Class__
-    - ~~[HW 1 due](https://stat506.github.io/HW1/)~~ ([Download HW1 Repo](https://classroom.github.com/a/SzNKp3ED))
+- Monday August 24: 
 
-- Wednesday January 22:
+- Wednesday August 26:
     - [Weekly Lecture Notes](https://github.com/STAT506/Lecture3/blob/master/Intro_506.pdf) ([R Markdown Source Code](https://github.com/STAT506/Lecture3/blob/master/Intro_506.Rmd))([Annotated Notes](https://github.com/STAT506/Lecture3/blob/master/Intro_506_annotated.pdf))
 
-- Friday January 24:
+- Friday August 28:
     - [GitHub Demo Video](https://montana.techsmithrelay.com/lGlW)
 
 ##### Week Three
-- Monday January 27: Tenure Track Assistant Professor Presentation
+- Monday August 31: 
     - HW 1: Part 1 and Part 2 due, add [HW 1 Part 2]( https://stat506.github.io/HW1_Part2/) to HW1 question repo
     - Weekly Reading: GH Preface and Chapter 1
     
-- Wednesday January 29:
+- Wednesday September 2:
     - [Weekly Lecture Notes](https://github.com/STAT506/Lecture4/blob/master/CH1_notes.pdf) ([R Markdown Source Code](https://github.com/STAT506/Lecture4/blob/master/CH1_notes.Rmd)) ([Annotated Notes](https://github.com/STAT506/Lecture4/blob/master/CH1_notes_annotated.pdf))
 
-- Friday January 31:
+- Friday September 4:
 
 ##### Week Four
 
-- Monday February 3:
-    - Weekly Reading: Chapter 2
-    - [Weekly Lecture Notes](https://github.com/STAT506/Lecture5/blob/master/CH2.pdf) ([R Markdown Source Code](https://github.com/STAT506/Lecture5/blob/master/CH2.Rmd)) ([Annotated Notes](https://github.com/STAT506/Lecture5/blob/master/CH2_annotated.pdf))
+- Monday September 7: __No Class__
 
-- Wednesday February 5:
+- Wednesday September 9:
     - [HW 2 due](https://stat506.github.io/HW2/) ([R Markdown Source Code](https://github.com/STAT506/HW2/blob/master/HW2.Rmd)) ([Download HW2 Repo](https://classroom.github.com/a/oQ79buBN))
 
-- Friday February 7:
+- Friday September 11:
     
 
 ##### Week Five
 
-- Monday February 10:
+- Monday September 14:
     - Weekly Reading: Chapter 3
     - [Weekly Lecture Notes](https://github.com/STAT506/Lecture6/blob/master/CH3_notes.pdf) ([R Markdown Source Code](https://github.com/STAT506/Lecture6/blob/master/CH3_notes.Rmd))([Annotated Notes](https://github.com/STAT506/Lecture6/blob/master/CH3_notes.pdf))
     - [Project 1 due](https://stat506.github.io/Project1/) ([Download Project 1 Repo](https://classroom.github.com/a/_nJaCFrq))
   
-- Wednesday February 12:
+- Wednesday September 16:
   - [HW 3 due](https://github.com/STAT506/HW3/blob/master/HW3.md) ([R Markdown Source Code](https://github.com/STAT506/HW3/blob/master/HW3.Rmd)) ([Download HW 3 Repo](https://classroom.github.com/a/NBBXK4vS))
-- Friday February 14:
+  
+- Friday September 18:
 
 ##### Week Six
 
-- Monday February 17: __No Class__
+- Monday September 21: 
 
-- Wednesday February 19:
+- Wednesday September 23:
     - Weekly Reading: Chapter 4.1 - Chapter 4.3
     - [Weekly Lecture Notes](https://github.com/STAT506/Lecture7/blob/master/CH4_notes.pdf) ([R Markdown Source Code](https://github.com/STAT506/Lecture7/blob/master/CH4_notes.Rmd)) ([Annotated Notes](https://github.com/STAT506/Lecture7/blob/master/CH4_notes_annotated.pdf))
     - [HW 4 due](https://stat506.github.io/HW4/) ([Download HW 4 Repo](https://classroom.github.com/a/0fmQczmb))
 
-- Friday February 21:
+- Friday September 25:
 
 
 ##### Week Seven
 
-- Monday February 24:
+- Monday September 28:
     - Weekly Reading: Chapter 4.4 - 4.7
     - [Weekly Lecture Notes](https://github.com/STAT506/Lecture8/blob/master/CH4_part2.pdf) ([R Markdown Source Code](https://github.com/STAT506/Lecture8/blob/master/CH4_part2.Rmd)) ([Annotated Notes](https://github.com/STAT506/Lecture8/blob/master/CH4_part2_annotated.pdf))
 
 ### Predictive Modeling and Regression Trees
 
-- Wednesday February 26:
+- Wednesday September 30:
     - [HW 5 due](https://stat506.github.io/HW5/) ([Download HW 5 Repo](https://classroom.github.com/a/aTLmrcab))
     - [Weekly Lecture Notes, v2](https://github.com/STAT506/Lecture9/blob/master/LecturePredModeling.pdf) ([R Markdown Source Code](https://github.com/STAT506/Lecture9/blob/master/LecturePredModeling.Rmd)) ([Annotated Notes](https://github.com/STAT506/Lecture9/blob/master/LecturePredModeling_annotated.pdf))
 
-- Friday February 28:
+- Friday October 2:
 
 ### Simulation of Probability Models and Model Fits
 
 ##### Week Eight
 
-- Monday March 2:
+- Monday October 5:
     - Weekly Reading: Chapter 7.1 - 7.3
     - [Weekly Lecture Notes](https://github.com/STAT506/Lecture10/blob/master/CH7.pdf) ([R Markdown Source Code](https://github.com/STAT506/Lecture10/blob/master/CH7.Rmd)) ([Annotated Notes](https://github.com/STAT506/Lecture10/blob/master/CH7_annotated.pdf))
 
-- Wednesday March 4:
+- Wednesday October 7:
     - [HW 6 due](https://stat506.github.io/HW6/) ([Download HW 6 Repo](https://classroom.github.com/a/qpisGieV))
 
-- Friday March 6:
+- Friday October 9:
 
 
 ##### Week Nine
 
-- Monday March 9:
+- Monday October 12:
     - Weekly Reading: Chapter 8
     - [Weekly Lecture Notes](https://github.com/STAT506/Lecture11/blob/master/CH8.pdf) ([R Markdown Source Code](https://github.com/STAT506/Lecture11/blob/master/CH8.Rmd))
 
-- Wednesday March 11:
+- Wednesday October 14:
     - [HW 7 due](https://stat506.github.io/HW7/) ([Download HW 7 Repo](https://classroom.github.com/a/dy6m-Mzi)) _optional assignment_
 
-- Friday March 13:
+- Friday October 16:
     - [Additional Lecture Notes](https://github.com/STAT506/Lecture12/blob/master/CH5.pdf) ([R Markdown Source Code](https://github.com/STAT506/Lecture12/blob/master/CH5.Rmd))
     - [Project 2 due](https://stat506.github.io/Project2/) ([Download Project Repo](https://classroom.github.com/g/cGImBggz))
 
 
 ##### Week Ten
 
-- Monday March 16: __No Class__
+- Monday October 19: 
 
-- Wednesday March 18: __No Class__
+- Wednesday October 21: 
 
-- Friday March 20: __No Class__
+- Friday October 23:
 
 ##### Week Eleven
 
-- Monday March 23:
+- Monday October 26:
     - [Video Lecture: Ch. 8](https://montana.techsmithrelay.com/j6EE) ([Google Jam Board](https://jamboard.google.com/d/16mgn09S4cxuqL9ZHUC75YWVvKv_1DbEBnr4T-4k9fgQ/viewer))
     - Reading: GH, Chapter 5
     - [Video Lecture: Logistic Regression](https://montana.techsmithrelay.com/OXwO) ([Google Jam Board](https://jamboard.google.com/d/16mgn09S4cxuqL9ZHUC75YWVvKv_1DbEBnr4T-4k9fgQ/viewer?f=1))
     - Questions about Ch. 8 / Intro to Logistic: [Google Hangout Link](https://meet.google.com/mzd-outz-uuw)
 
-- Wednesday March 25:
+- Wednesday October 28:
    - Midterm Q-and-A: [Google Hangout Link](https://meet.google.com/mzd-outz-uuw)
    - [Midterm Take Home Assigned](https://github.com/STAT506/midterm/blob/master/Midterm_S2020.pdf) ([download Midterm Repo](https://classroom.github.com/a/5OaLfqRF))
     
-- Friday March 27: __No Class__
+- Friday October 30: __No Class__
 
 ##### Week Twelve
 
-- Monday March 30:
+- Monday November 2:
     - No new material, work on midterm.
     - Midterm Q-and-A: [Google Hangout Link](https://meet.google.com/mzd-outz-uuw)
 
-- Wednesday April 1:
+- Wednesday November 4:
     - Reading: GH, Chapter 5
     - [Video Lecture: Logistic Regression](https://montana.techsmithrelay.com/OXwO) ([Google Jam Board](https://jamboard.google.com/d/16mgn09S4cxuqL9ZHUC75YWVvKv_1DbEBnr4T-4k9fgQ/viewer?f=1))
     - Questions about intro to Logistic: [Google Hangout Link](https://meet.google.com/mzd-outz-uuw)
     - Chapter 5, part 2
-- Friday April 3:
+    
+- Friday November 6:
     - Interactive Documents with R Shiny: Class Demo ([R Markdown Document](https://github.com/stat408/Lab9/blob/master/Lab9_Shiny.Rmd)) [Google Hangout Link](https://meet.google.com/mzd-outz-uuw)
     - Midterm Take Home Due
     - _Optional:_ [R Shiny Video](https://montana.techsmithrelay.com/Fy1d) ([R Shiny Slides](https://stat408.github.io/Lecture11/))
@@ -147,64 +146,35 @@
 
 ##### Week Thirteen: Logistic Regression
 
-- Monday April 6:
+- Monday November 9:
     - [Google Hangout Link](https://meet.google.com/mzd-outz-uuw)
     - [Logistic Demo RMD](https://github.com/STAT506/Lecture13/blob/master/Logistic_Demo.Rmd) ([Logistic Demo Key RMD](https://github.com/STAT506/Lecture13/blob/master/Logistic_Demo_key.Rmd)) ([Video Recording](https://montana.techsmithrelay.com/hF5D))
     - Weekly Reading: GH Chapter 5
-- Wednesday April 8: 
+- Wednesday November 11: __No Class__
     - [Google Hangout Link](https://meet.google.com/mzd-outz-uuw) ([Class Recording](https://montana.techsmithrelay.com/toUe))
     - ([Google Jam Board](https://jamboard.google.com/d/16mgn09S4cxuqL9ZHUC75YWVvKv_1DbEBnr4T-4k9fgQ/viewer?f=4))
     - [Video Lecture 1](https://montana.techsmithrelay.com/4EBd)
     - [Video Lecture 2](https://montana.techsmithrelay.com/akzy)
     - [Lecture Key](https://github.com/STAT506/Lecture13/blob/master/CH5_key_pt2.pdf)
 
-- Friday April 10: __No Class__
+- Friday November 13: __No Class__
 
 ##### Week Fourteen: Generalized Linear Models
 
-- Monday April 13:
+- Monday November 16:
     - [HW 8 due](https://github.com/STAT506/HW8/blob/master/HW8.pdf) ([Download Repo](https://classroom.github.com/a/N-OxSPtZ))
     - Weekly Reading: GH Chapter 6
     - Generalized Linear Models Overview ([Google Hangout Link](https://meet.google.com/mzd-outz-uuw)) ([Class Video Recording](https://montana.techsmithrelay.com/e7IS))
 
-- Wednesday April 15:
+- Wednesday November 18:
     - Generalized Linear Models ([Class Video Recording](https://montana.techsmithrelay.com/aiLp))
-- Friday April 17:
-    - [Count / Ordinal Regression Demo](https://github.com/STAT506/Lecture14/blob/master/CH6_key.pdf) ([Rmd Source Code](https://github.com/STAT506/Lecture14/blob/master/CH6_key.Rmd)) ([Class Video](https://montana.techsmithrelay.com/QeoB))
 
 ##### Week Fifteen: Hierarchical Models Overview
 
-- Monday April 20:
-    - Weekly Reading: GH Chapter 11 & CH Chapter 12.1 - 12.4 ([Class Video](https://montana.techsmithrelay.com/XBhf))
 
-- Wednesday April 22:
-    - [HW 9 due](https://stat506.github.io/HW9/)([Download Repo](https://classroom.github.com/a/Uf_u5rjY)) ([Class Video](https://montana.techsmithrelay.com/1Dtk))
+- Wednesday November 25:
+    - Final exam
 
-- Friday April 24:
-    - [Weekly Notes PDF](https://github.com/STAT506/Lecture15/blob/master/CH11_key.pdf) ([Class Video](https://montana.techsmithrelay.com/gJl0))
-
-##### Week Sixteen: Hierarchical Models Fitting
-
-- Monday April 27:
-    - [Class Video Recording](https://montana.techsmithrelay.com/XE1e)
-    - Weekly Reading: GH Chapter 12.5 - 12.9 & GH Chapter 13
-    - [lme4 (lmer) vignette](https://cran.r-project.org/web/packages/lme4/vignettes/lmer.pdf)
-    - [Weekly Notes](https://github.com/STAT506/Lecture16/blob/master/CH12_key.pdf) ([RMD Source](https://github.com/STAT506/Lecture16/blob/master/CH12_key.Rmd)) ([Annotated Notes](https://github.com/STAT506/Lecture16/blob/master/CH12_annotate.pdf))
-
-- Wednesday April 29: 
-    - [Class Video Recording](https://montana.techsmithrelay.com/xglV)
-
-- Friday May 1: 
-    - [HW 10 (Optional)](https://github.com/STAT506/HW10/blob/master/HW10.pdf) ([Download Repo](https://classroom.github.com/a/tYE6mXik))
-    - [Class Video Recording](https://montana.techsmithrelay.com/KO4w)
-    - [Annotated Notes](https://github.com/STAT506/Lecture16/blob/master/CH12_annotate2.pdf)
-
-
-##### Week Seventeen
-
-- Thursday May 7~~, 8 - 9:50 AM~~
-    - ~~In Class Final Exam~~
-    - [Take Home Final Due](https://github.com/STAT506/final_exam/blob/master/Final_S2020.pdf) ([RMD Source Code](https://github.com/STAT506/final_exam/blob/master/Final_S2020.Rmd)) ([Download Repo](https://classroom.github.com/a/J2D48HP9))
 
 
 ## Course Description
