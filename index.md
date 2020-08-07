@@ -35,6 +35,9 @@ For additional resources see:
 
 ## Course Policies
 
+#### Course Format
+
+The course will use a mixture of in person lectures and various virtual formats. Synchronous discussions and our demos will be conducted using Microsoft Teams. Asynchronous lectures and material will be posted on the course webpage.
 
 #### Grading Policy
 
