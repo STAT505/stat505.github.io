@@ -19,6 +19,7 @@ This course will introduce linear models and generalized linear models using the
 
 ## Textbooks
 
+- _Regression and Other Stories_, by Andrew Gelman, Jennifer Hill, and Aki Vehtari (Preferred)
 - _Data Analysis Using Regression and Multilevel/Hierarchical Models_, by Andrew Gelman and Jennifer Hill
 
 
@@ -87,6 +88,15 @@ In the event that one or more students and/or the instructor are required to qua
 
 ## Class Schedule
 
+##### Week One: Introduction: Git, R Studio, and the Tidyverse
+- Monday August 17: [Lecture 1 - Course Overview and Tidyverse Intro](https://stat506.github.io/Lecture1/)
+
+- Wednesday August 19: 
+
+- Friday August 21: [Lecture 2 - Git Demo](https://stat506.github.io/Lecture2/)
+
+
+<!---
 ### Introduction: Git, R Studio, and the Tidyverse
 ##### Week One
 - Monday August 17: [Lecture 1 - Course Overview and Tidyverse Intro](https://stat506.github.io/Lecture1/)
@@ -262,6 +272,6 @@ In the event that one or more students and/or the instructor are required to qua
 - Wednesday November 25:
     - Final exam
 
-
+--->
 
 
