@@ -89,32 +89,23 @@ In the event that one or more students and/or the instructor are required to qua
 ## Class Schedule
 
 ##### Week One: Introduction: Git, R Studio, and the Tidyverse
-- Monday August 17: [Lecture 1 - Course Overview and Tidyverse Intro](https://stat506.github.io/Lecture1/)
+- Monday August 17: Course Overview and Class Conversation
 
-- Wednesday August 19: 
+- Wednesday August 19: Intro to R Studio, Stan, and rstanarm
 
-- Friday August 21: [Lecture 2 - Git Demo](https://stat506.github.io/Lecture2/)
+- Friday August 21: [Git Demo](https://stat506.github.io/Lecture2/)
 
-
-<!---
-### Introduction: Git, R Studio, and the Tidyverse
-##### Week One
-- Monday August 17: [Lecture 1 - Course Overview and Tidyverse Intro](https://stat506.github.io/Lecture1/)
-
-- Wednesday August 19: 
-
-- Friday August 21: [Lecture 2 - Git Demo](https://stat506.github.io/Lecture2/)
-
-### ANOVA and Linear Regression
-##### Week Two
+##### Week Two: ROS Chapter 1
 - Monday August 24: 
 
 - Wednesday August 26:
-    - [Weekly Lecture Notes](https://github.com/STAT506/Lecture3/blob/master/Intro_506.pdf) ([R Markdown Source Code](https://github.com/STAT506/Lecture3/blob/master/Intro_506.Rmd))([Annotated Notes](https://github.com/STAT506/Lecture3/blob/master/Intro_506_annotated.pdf))
-
+   
 - Friday August 28:
-    - [GitHub Demo Video](https://montana.techsmithrelay.com/lGlW)
 
+
+<!---
+
+### ANOVA and Linear Regression
 ##### Week Three
 - Monday August 31: 
     - HW 1: Part 1 and Part 2 due, add [HW 1 Part 2]( https://stat506.github.io/HW1_Part2/) to HW1 question repo
