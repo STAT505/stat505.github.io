@@ -67,7 +67,7 @@ Federal law mandates the provision of services at the university-level to qualif
 #### Masks 
 
 __WEARING MASKS IN CLASSROOMS IS REQUIRED__
-Face coverings are required in all indoor spaces and all enclosed or partially enclosed outdoor spaces. MSU requires all students to wear face masks or cloth face coverings in classrooms, laboratories and other similar spaces where in-person instruction occurs. MSU requires the wearing of masks in physical classrooms to help mitigate the transmission of SARS-CoV-2, which causes COVID-19.  The MSU community views the adoption of these practices as a mark of good citizenship and respectful care of fellow classmates, faculty, and staff.
+Face coverings that cover the mouth and nose are required in all indoor spaces and all enclosed or partially enclosed outdoor spaces. MSU requires all students to wear face masks or cloth face coverings in classrooms, laboratories and other similar spaces where in-person instruction occurs. MSU requires the wearing of masks in physical classrooms to help mitigate the transmission of SARS-CoV-2, which causes COVID-19.  The MSU community views the adoption of these practices as a mark of good citizenship and respectful care of fellow classmates, faculty, and staff.
 
 The complete details about MSU’s mask requirement can be found at https://www.montana.edu/health/coronavirus/index.html. 
 
