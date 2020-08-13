@@ -91,9 +91,10 @@ In the event that one or more students and/or the instructor are required to qua
 ##### Week One: Introduction: Git, R Studio, and the Tidyverse
 - Monday August 17: Course Overview and Class Conversation
 
-- Wednesday August 19: Intro to R Studio, Stan, and rstanarm
+- Wednesday August 19: Intro to R Studio, Git, Stan, and rstanarm.
 
-- Friday August 21: [Git Demo](https://stat506.github.io/Lecture2/)
+- Friday August 21: (__Asynchronous Video Lectures__)
+   - [Git Demo](https://stat506.github.io/Lecture2/)
 
 ##### Week Two: ROS Chapter 1
 - Monday August 24: 
