@@ -103,7 +103,9 @@ In the event that one or more students and/or the instructor are required to qua
 ##### Week Two: ROS Chapter 1
 - Monday August 24: 
 
-- Wednesday August 26:
+- Wednesday August 26: (__Synchronous Virtual Class on Teams__)
+   - If possible, watch Andrew Gelman presentation, 9 AM in Bozeman. [https://criteo.zoom.us/webinar/register/WN_c-YbEbeDRRWpguEGN7dduA](Register here). 
+   - Informal class discussion at 10 AM on Microsoft Teams.
    
 - Friday August 28:
 
