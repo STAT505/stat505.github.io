@@ -1,3 +1,7 @@
+## Course Syllabus
+
+A [PDF of the syllabus](https://github.com/STAT505/Syllabus/raw/master/syllabus2020.pdf) is available.
+
 ## Course Description
 
 This course will introduce linear models and generalized linear models using the software package R. In addition to the necessary linear algebra and statistical computing, the course will emphasize reproducible research using R Markdown, version control with GitHub, and report writing.
