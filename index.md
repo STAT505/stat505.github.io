@@ -96,11 +96,11 @@ In the event that one or more students and/or the instructor are required to qua
 - Monday August 17: Course Overview and Class Conversation
 
 - Wednesday August 19: Intro to R Studio, Git, Stan, and rstanarm.
-   - [Tidyverse Demo Video (made for STAT408)(https://montana.techsmithrelay.com/hho8) ([RMD Ssource (includes STAT 408 material)](https://raw.githubusercontent.com/stat408/Lecture1/master/docs/index.Rmd)
-   - Class Demo
+   - [Tidyverse Demo Video (made for STAT408)](https://montana.techsmithrelay.com/hho8) ([RMD Source (includes STAT 408 material)](https://raw.githubusercontent.com/stat408/Lecture1/master/docs/index.Rmd)
+   - [Class Demo](https://github.com/STAT505/CourseDemo/blob/master/Lab1.pdf) ([RMD Source Code](https://raw.githubusercontent.com/STAT505/CourseDemo/master/Lab1.Rmd))
 
 - Friday August 21: (__Asynchronous Video Lectures__)
-   - [Git Demo](https://stat506.github.io/Lecture2/)
+   - [Git Demo]( https://stat505.github.io/GitDemo/)
 
 ##### Week Two: ROS Chapter 1
 - Monday August 24: 
