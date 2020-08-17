@@ -100,7 +100,8 @@ In the event that one or more students and/or the instructor are required to qua
    - [Class Demo](https://github.com/STAT505/CourseDemo/blob/master/Lab1.pdf) ([RMD Source Code](https://raw.githubusercontent.com/STAT505/CourseDemo/master/Lab1.Rmd))
 
 - Friday August 21: (__Asynchronous Class__)
-   - [Git Demo](https://stat505.github.io/GitDemo/)
+   - [Git Demo Slides](https://stat505.github.io/GitDemo/)
+   - [Stan/Rstan Guide](https://mc-stan.org/users/interfaces/rstan)
 
 ##### Week Two: ROS Chapter 1
 - Monday August 24:
