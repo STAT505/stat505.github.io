@@ -26,8 +26,7 @@
 - Friday August 28:
 
 
-#### Week Three: Data and Data Visualization Chapter 1
-- Weekly Reading: ROS Chapter 2
+#### Week Three: More Regression
 
 - Monday August 31:
 
@@ -35,7 +34,8 @@
 
 - Friday September 4:
 
-#### Week Four: 
+#### Week Four: Data and Data Visualization
+- Weekly Reading: ROS Chapter 2
 
 - Monday September 7: __Labor Day: No Class__
 
