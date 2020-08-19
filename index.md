@@ -1,7 +1,7 @@
 
 ## Class Schedule
 
-##### Week One: Introduction: Git, R Studio, and the Tidyverse
+#### Week One: Introduction: Git, R Studio, and the Tidyverse
 - Monday August 17: Course Overview and Class Conversation
 
 - Wednesday August 19: Intro to R Studio, Git, Stan, and rstanarm.
@@ -12,7 +12,7 @@
    - [Git Demo Slides](https://stat505.github.io/GitDemo/)
    - [Stan/Rstan Guide](https://mc-stan.org/users/interfaces/rstan)
 
-##### Week Two: Regression Overview
+#### Week Two: Regression Overview
 - Weekly Reading: ROS Chapter 1
 
 - Monday August 24:
@@ -26,7 +26,7 @@
 - Friday August 28:
 
 
-##### Week Three: Data and Data Visualization Chapter 1
+#### Week Three: Data and Data Visualization Chapter 1
 - Weekly Reading: ROS Chapter 2
 
 - Monday August 31:
@@ -35,7 +35,7 @@
 
 - Friday September 4:
 
-##### Week Four: 
+#### Week Four: 
 
 - Monday September 7: __Labor Day: No Class__
 
