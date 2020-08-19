@@ -12,18 +12,36 @@
    - [Git Demo Slides](https://stat505.github.io/GitDemo/)
    - [Stan/Rstan Guide](https://mc-stan.org/users/interfaces/rstan)
 
-##### Week Two: ROS Chapter 1
+##### Week Two: Regression Overview
+- Weekly Reading: ROS Chapter 1
+
 - Monday August 24:
    - [Class Demo Continued...](https://github.com/STAT505/CourseDemo/blob/master/Lab1.pdf) ([RMD Source Code](https://raw.githubusercontent.com/STAT505/CourseDemo/master/Lab1.Rmd))
    - [HW1 Due 8 AM Tuesday](https://stat505.github.io/HW1/) ([Download GitHub Repo](https://classroom.github.com/a/z0sYe7kH))
 
 - Wednesday August 26: (__Synchronous Virtual Class on Teams__)
    - If possible, watch Andrew Gelman presentation, 9 AM in Bozeman. [Register Here](https://criteo.zoom.us/webinar/register/WN_c-YbEbeDRRWpguEGN7dduA)
-   - Informal class discussion at 10 AM on Microsoft Teams.
+   - Join class on Teams for an informal class discussion at 10 AM.
    
 - Friday August 28:
 
 
+##### Week Three: Data and Data Visualization Chapter 1
+- Weekly Reading: ROS Chapter 2
+
+- Monday August 31:
+
+- Wednesday September 2:
+
+- Friday September 4:
+
+##### Week Four: 
+
+- Monday September 7: __Labor Day: No Class__
+
+- Wednesday September 9:
+
+- Friday September 11:
 <!---
 
 ### ANOVA and Linear Regression
