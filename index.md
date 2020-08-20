@@ -29,7 +29,7 @@
 #### Week Three: More Regression
 
 - Monday August 31:
-   -[HW2 Due 8 AM Tuesday](https://stat505.github.io/HW2/) ([Download Github Repo](https://classroom.github.com/a/4MufjEzB))
+   - [HW2 Due 8 AM Tuesday](https://stat505.github.io/HW2/) ([Download Github Repo](https://classroom.github.com/a/4MufjEzB))
 
 - Wednesday September 2:
 
