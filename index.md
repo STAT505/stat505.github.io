@@ -13,6 +13,7 @@
 
 #### Week Two: Regression Overview
 - Weekly Reading: ROS Chapter 1
+- Weekly Notes: [PDF skeleton](https://github.com/STAT505/CH1/raw/master/CH1_notes.pdf) ([Rmd Source Code](https://raw.githubusercontent.com/STAT505/CH1/master/CH1_notes.Rmd))
 
 - Monday August 24:
    - [Class Demo Continued...](https://github.com/STAT505/CourseDemo/blob/master/Lab1.pdf) ([RMD Source Code](https://raw.githubusercontent.com/STAT505/CourseDemo/master/Lab1.Rmd))
