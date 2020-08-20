@@ -43,6 +43,7 @@
 - Wednesday September 9:
 
 - Friday September 11:
+
 <!---
 
 ### ANOVA and Linear Regression
