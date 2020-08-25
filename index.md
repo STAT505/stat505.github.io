@@ -39,8 +39,9 @@
 - Weekly Reading: ROS Chapter 2
 
 - Monday September 7: __Labor Day: No Class__
-
+ 
 - Wednesday September 9:
+- [HW3 Due 8 AM Wednesday](https://stat505.github.io/HW3/)
 
 - Friday September 11:
 
