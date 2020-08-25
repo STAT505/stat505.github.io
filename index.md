@@ -1,6 +1,6 @@
 
 
-#### Week One: Introduction: Git, R Studio, and the Tidyverse
+### Week One: Introduction: Git, R Studio, and the Tidyverse
 - Monday August 17: Course Overview and Class Conversation
 
 - Wednesday August 19: Intro to R Studio, Git, Stan, and rstanarm.
@@ -11,7 +11,7 @@
    - [Git Demo Slides](https://stat505.github.io/GitDemo/)
    - [Stan/Rstan Guide](https://mc-stan.org/users/interfaces/rstan)
 
-#### Week Two: Regression Overview
+### Week Two: Regression Overview
 - Weekly Reading: ROS Chapter 1
 - Weekly Notes: [PDF skeleton](https://github.com/STAT505/CH1/raw/master/CH1_notes.pdf) ([Rmd Source Code](https://raw.githubusercontent.com/STAT505/CH1/master/CH1_notes.Rmd))
 
@@ -26,7 +26,7 @@
 - Friday August 28:
 
 
-#### Week Three: More Regression
+### Week Three: More Regression
 
 - Weekly Notes: [PDF skeleton](https://github.com/STAT505/CH1/raw/master/CH1_notes2.pdf) ([Rmd Source Code](https://raw.githubusercontent.com/STAT505/CH1/master/CH1_notes2.Rmd))
 
@@ -38,7 +38,7 @@
 
 - Friday September 4:
 
-#### Week Four: Data and Data Visualization
+### Week Four: Data and Data Visualization
 - Weekly Reading: 
    - ROS Chapter 2
    - [ggplot website + cheatsheet](https://ggplot2.tidyverse.org)
