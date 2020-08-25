@@ -28,6 +28,9 @@
 
 #### Week Three: More Regression
 
+- Weekly Notes: [PDF skeleton](https://github.com/STAT505/CH1/raw/master/CH1_notes2.pdf) ([Rmd Source Code](https://raw.githubusercontent.com/STAT505/CH1/master/CH1_notes2.Rmd))
+
+
 - Monday August 31:
    - [HW2 Due 8 AM Tuesday](https://stat505.github.io/HW2/) ([Download Github Repo](https://classroom.github.com/a/4MufjEzB))
 
@@ -36,7 +39,9 @@
 - Friday September 4:
 
 #### Week Four: Data and Data Visualization
-- Weekly Reading: ROS Chapter 2
+- Weekly Reading: 
+   - ROS Chapter 2
+   - [ggplot website + cheatsheet](https://ggplot2.tidyverse.org)
 
 - Monday September 7: __Labor Day: No Class__
  
