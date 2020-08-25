@@ -1,4 +1,4 @@
-
+#### Course Schedule
 
 ### Week One: Introduction: Git, R Studio, and the Tidyverse
 - Monday August 17: Course Overview and Class Conversation
