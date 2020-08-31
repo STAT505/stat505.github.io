@@ -46,7 +46,7 @@
 - Monday September 7: __Labor Day: No Class__
  
 - Wednesday September 9:
-- [HW3 Due 8 AM Wednesday](https://stat505.github.io/HW3/)
+- [HW3 Due 8 AM Wednesday](https://stat505.github.io/HW3/) ([Download Github Repo](https://classroom.github.com/a/no3JhetU))
 
 - Friday September 11:
 
