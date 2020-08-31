@@ -39,6 +39,10 @@
 - Friday September 4:
 
 ### Week Four: Data and Data Visualization
+- Weekly Notes: 
+   - [PDF skeleton: Ch. 2](https://github.com/STAT505/CH2/blob/master/CH2.pdf) ([Rmd Source Code](https://github.com/STAT505/CH2/blob/master/CH2.Rmd))
+   - [PDF skeleton: Ch. 3](https://github.com/STAT505/CH3/blob/master/CH3.pdf) ([Rmd Source Code](https://github.com/STAT505/CH3/blob/master/CH3.Rmd))
+
 - Weekly Reading: 
    - ROS Chapter 2
    - [ggplot website + cheatsheet](https://ggplot2.tidyverse.org)
