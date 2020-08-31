@@ -61,7 +61,7 @@
    - ROS Chapter 4
 
 - Monday September 14: 
-   - HW4 Due 8 AM Tuesday
+   - [HW4 Due 8 AM Tuesday](https://stat505.github.io/HW4/) ([Download Github Repo](https://classroom.github.com/a/NyZAkfeN))
  
 - Wednesday September 16:
 
