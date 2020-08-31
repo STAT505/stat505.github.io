@@ -44,15 +44,28 @@
    - [PDF skeleton: Ch. 3](https://github.com/STAT505/CH3/blob/master/CH3.pdf) ([Rmd Source Code](https://github.com/STAT505/CH3/blob/master/CH3.Rmd))
 
 - Weekly Reading: 
-   - ROS Chapter 2
+   - ROS Chapter 2 + Chapter 3
    - [ggplot website + cheatsheet](https://ggplot2.tidyverse.org)
 
 - Monday September 7: __Labor Day: No Class__
  
 - Wednesday September 9:
-- [HW3 Due 8 AM Wednesday](https://stat505.github.io/HW3/) ([Download Github Repo](https://classroom.github.com/a/no3JhetU))
+   - [HW3 Due 8 AM Wednesday](https://stat505.github.io/HW3/) ([Download Github Repo](https://classroom.github.com/a/no3JhetU))
 
 - Friday September 11:
+
+### Week Five: Statistical Inference and NHST
+- Weekly Notes: 
+ 
+- Weekly Reading: 
+   - ROS Chapter 4
+
+- Monday September 14: 
+   - HW4 Due 8 AM Tuesday
+ 
+- Wednesday September 16:
+
+- Friday September 18:
 
 <!---
 
