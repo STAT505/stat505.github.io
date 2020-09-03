@@ -49,7 +49,7 @@
 
 - Monday September 7: __Labor Day: No Class__
  
-- Wednesday September 9:
+- Wednesday September 9: __Synchronous Virtual Class on Teams__
    - [HW3 Due 8 AM Wednesday](https://stat505.github.io/HW3/) ([Download Github Repo](https://classroom.github.com/a/no3JhetU))
 
 - Friday September 11:
@@ -64,7 +64,7 @@
    - [HW4 Due 8 AM Tuesday](https://stat505.github.io/HW4/) ([Download Github Repo](https://classroom.github.com/a/NyZAkfeN))
    - [Project 1 Due](https://stat505.github.io/Project1/) ([Download Github Repo](https://classroom.github.com/a/CL5Ba2lt))
  
-- Wednesday September 16:
+- Wednesday September 16: __Synchronous Virtual Class on Teams__
 
 - Friday September 18:
 
