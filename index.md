@@ -55,8 +55,9 @@
 - Friday September 11:
 
 ### Week Five: Statistical Inference and NHST
-- Weekly Notes: 
- 
+- Weekly Notes:
+   - [PDF skeleton: Ch. 4 Part 1](https://github.com/STAT505/CH4/blob/master/CH4.pdf) ([Rmd Source Code](https://github.com/STAT505/CH4/blob/master/CH4.Rmd))
+
 - Weekly Reading: 
    - ROS Chapter 4
 
