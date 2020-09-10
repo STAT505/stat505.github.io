@@ -78,7 +78,7 @@
 
 
 - Monday September 21: 
-   - HW5 Due 8 AM Tuesday
+   - [HW5 Due 8 AM Tuesday](https://stat505.github.io/HW5/) ([Download Github Repo](https://classroom.github.com/a/_D011XLQ))
  
 - Wednesday September 23: __Synchronous Virtual Class on Teams__
 
