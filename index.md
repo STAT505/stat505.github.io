@@ -71,8 +71,9 @@
 
 - Friday September 18:
 
-### Week Six: Simulation
-- Weekly Notes:
+### Week Six: More Inference + Simulation
+- Weekly Notes: 
+   - [PDF skeleton: Ch. 5](https://github.com/STAT505/CH5/blob/master/CH5.pdf) ([Rmd Source Code](https://github.com/STAT505/CH5/blob/master/CH5.Rmd))
 
 - Weekly Reading: 
    - ROS Chapter 5
@@ -85,6 +86,22 @@
 
 
 - Friday September 25:
+
+
+### Week Seven: Regression (finally)
+- Weekly Notes: 
+
+- Weekly Reading: 
+   - ROS Chapter 6
+
+
+- Monday September 28: 
+   - HW6 Due 8 AM Tuesday
+ 
+- Wednesday September 30: __Synchronous Virtual Class on Teams__
+
+
+- Friday October 2:
 
 
 ---
