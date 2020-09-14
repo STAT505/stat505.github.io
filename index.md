@@ -96,7 +96,7 @@
 
 
 - Monday September 28: 
-   - HW6 Due 8 AM Tuesday
+   - [HW6 Due 8 AM Tuesday](https://stat505.github.io/HW6/) ([Download GitHub Repo](https://classroom.github.com/a/S7XWjsGS))
  
 - Wednesday September 30: __Synchronous Virtual Class on Teams__
 
