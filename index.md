@@ -80,7 +80,7 @@
 
 
 - Monday September 21: 
-   - [HW5 Due 8 AM Tuesday](https://stat505.github.io/HW5/) ([Download Github Repo](https://classroom.github.com/a/_D011XLQ))
+   - [HW5 Due ~~8 AM Tuesday~~ Next Week](https://stat505.github.io/HW5/) ([Download Github Repo](https://classroom.github.com/a/_D011XLQ))
  
 - Wednesday September 23: __Synchronous Virtual Class on Teams__
 
@@ -95,11 +95,12 @@
    - ROS Chapter 6
 
 
-- Monday September 28: 
+- Monday September 28:
+   - [HW5 Due 8 AM Tuesday](https://stat505.github.io/HW5/) ([Download Github Repo](https://classroom.github.com/a/_D011XLQ))
    - [HW6 Due 8 AM Tuesday](https://stat505.github.io/HW6/) ([Download GitHub Repo](https://classroom.github.com/a/S7XWjsGS))
  
 - Wednesday September 30: __Synchronous Virtual Class on Teams__
-
+   - Project 1 Final Version Due
 
 - Friday October 2:
 
