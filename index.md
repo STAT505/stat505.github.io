@@ -97,13 +97,26 @@
 
 - Monday September 28:
    - [HW5 Due 8 AM Tuesday](https://stat505.github.io/HW5/) ([Download Github Repo](https://classroom.github.com/a/_D011XLQ))
-   - [HW6 Due 8 AM Tuesday](https://stat505.github.io/HW6/) ([Download GitHub Repo](https://classroom.github.com/a/S7XWjsGS))
  
 - Wednesday September 30: __Synchronous Virtual Class on Teams__
    - Project 1 Final Version Due
 
 - Friday October 2:
 
+
+### Week Eight:  
+- Weekly Notes: 
+
+- Weekly Reading: 
+   - ROS Chapter 7
+
+
+- Monday October 5:
+   - [HW6 Due 8 AM Tuesday](https://stat505.github.io/HW6/) ([Download GitHub Repo](https://classroom.github.com/a/S7XWjsGS))
+ 
+- Wednesday October 7: __Synchronous Virtual Class on Teams__
+
+- Friday October 9:
 
 ---
 
