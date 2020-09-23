@@ -90,9 +90,11 @@
 
 ### Week Seven: Regression (finally)
 - Weekly Notes: 
+   - [PDF skeleton: Ch. 6](https://github.com/STAT505/CH6/blob/master/CH6.pdf) ([Rmd Source Code](https://github.com/STAT505/CH6/blob/master/CH6.Rmd))
 
 - Weekly Reading: 
    - ROS Chapter 6
+   - ROS Chapter 7
 
 
 - Monday September 28:
