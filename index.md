@@ -91,6 +91,7 @@
 ### Week Seven: Regression (finally)
 - Weekly Notes: 
    - [PDF skeleton: Ch. 6](https://github.com/STAT505/CH6/blob/master/CH6.pdf) ([Rmd Source Code](https://github.com/STAT505/CH6/blob/master/CH6.Rmd))
+   - [PDF skeleton: Ch. 7](https://github.com/STAT505/CH7/blob/master/CH7.pdf) ([Rmd Source Code](https://github.com/STAT505/CH6/blob/master/CH7.Rmd))
 
 - Weekly Reading: 
    - ROS Chapter 6
@@ -119,6 +120,80 @@
 - Wednesday October 7: __Synchronous Virtual Class on Teams__
 
 - Friday October 9:
+
+### Week Nine:  
+- Weekly Notes: 
+
+- Weekly Reading: 
+
+
+- Monday October 12:
+ 
+- Wednesday October 14: __Synchronous Virtual Class on Teams__
+
+- Friday October 16:
+
+### Week Ten:  
+- Weekly Notes: 
+
+- Weekly Reading: 
+
+
+- Monday October 19:
+ 
+- Wednesday October 21: __Synchronous Virtual Class on Teams__
+
+- Friday October 23:
+
+### Week Eleven:  
+- Weekly Notes: 
+
+- Weekly Reading: 
+
+
+- Monday October 26:
+ 
+- Wednesday October 28: __Synchronous Virtual Class on Teams__
+
+- Friday October 30:
+
+### Week Twelve:  
+- Weekly Notes: 
+
+- Weekly Reading: 
+
+
+- Monday November 2:
+ 
+- Wednesday November 4: __Synchronous Virtual Class on Teams__
+
+- Friday November 6:
+
+### Week Thirteen:  
+- Weekly Notes: 
+
+- Weekly Reading: 
+
+
+- Monday November 9:
+ 
+- Wednesday November 11: __No Class: Veteran's Day__
+
+- Friday November 13:
+
+### Week Fourteen:  
+- Weekly Notes: 
+
+- Weekly Reading: 
+
+
+- Monday November 16:
+ 
+- Wednesday November 18: __Synchronous Virtual Class on Teams__
+
+- Friday November 20:
+
+### Week Fifteen (finals week):  
 
 ---
 
