@@ -155,9 +155,9 @@
 
 
 - Monday October 26:
+   - Project 2 Final Version Due
  
 - Wednesday October 28: __Synchronous Virtual Class on Teams__
-   - Project 2 Final Version Due
 
 - Friday October 30:
 
@@ -173,7 +173,7 @@
 
 - Friday November 6:
 
-### Week Thirteen:  (Logistic Regression)
+### Week Thirteen: (Logistic Regression)
 - Weekly Notes: 
 
 - Weekly Reading: 
