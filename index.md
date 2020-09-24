@@ -107,11 +107,11 @@
 - Friday October 2:
 
 
-### Week Eight:  
+### Week Eight: Prediction and Bayesian Inference
 - Weekly Notes: 
 
 - Weekly Reading: 
-   - ROS Chapter 7
+   - ROS Chapter 9
 
 
 - Monday October 5:
@@ -121,10 +121,11 @@
 
 - Friday October 9:
 
-### Week Nine:  
+### Week Nine:  (Midterm) + Regression with multiple predictors
 - Weekly Notes: 
 
 - Weekly Reading: 
+   - ROS Chapter 10
 
 
 - Monday October 12:
@@ -133,8 +134,9 @@
 
 - Friday October 16:
 
-### Week Ten:  
+### Week Ten: (Maximum Likelihood / Mathematical Statistics) 
 - Weekly Notes: 
+   - ROS Chapter 8
 
 - Weekly Reading: 
 
@@ -145,19 +147,21 @@
 
 - Friday October 23:
 
-### Week Eleven:  
+### Week Eleven: (Assumptions & Model Diagnostics, Part I)
 - Weekly Notes: 
 
 - Weekly Reading: 
+   - ROS Chapter 11
 
 
 - Monday October 26:
  
 - Wednesday October 28: __Synchronous Virtual Class on Teams__
+   - Project 2 Final Version Due
 
 - Friday October 30:
 
-### Week Twelve:  
+### Week Twelve:  (Assumptions & Model Diagnostics, Part II)
 - Weekly Notes: 
 
 - Weekly Reading: 
@@ -169,10 +173,11 @@
 
 - Friday November 6:
 
-### Week Thirteen:  
+### Week Thirteen:  (Logistic Regression)
 - Weekly Notes: 
 
 - Weekly Reading: 
+   - Chapter 13
 
 
 - Monday November 9:
@@ -181,19 +186,24 @@
 
 - Friday November 13:
 
-### Week Fourteen:  
+### Week Fourteen:  (Logistic Regression, Part 2)
 - Weekly Notes: 
 
 - Weekly Reading: 
+   - Chapter 14
 
 
 - Monday November 16:
  
 - Wednesday November 18: __Synchronous Virtual Class on Teams__
+   - Project 3 Final Version Due
+
 
 - Friday November 20:
 
 ### Week Fifteen (finals week):  
+
+- Take home Exam this week.
 
 ---
 
