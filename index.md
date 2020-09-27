@@ -98,13 +98,13 @@
    - ROS Chapter 7
 
 
-- Monday September 28:
+- Monday September 28: __Synchronous Virtual Class on Teams__
    - [HW5 Due 8 AM Tuesday](https://stat505.github.io/HW5/) ([Download Github Repo](https://classroom.github.com/a/_D011XLQ))
  
 - Wednesday September 30: __Synchronous Virtual Class on Teams__
    - Project 1 Final Version Due
 
-- Friday October 2:
+- Friday October 2: __Synchronous Virtual Class on Teams__
 
 
 ### Week Eight: Prediction and Bayesian Inference
