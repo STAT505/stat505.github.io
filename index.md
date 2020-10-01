@@ -30,7 +30,6 @@
 
 - Weekly Notes: [PDF skeleton](https://github.com/STAT505/CH1/raw/master/CH1_notes2.pdf) ([Rmd Source Code](https://raw.githubusercontent.com/STAT505/CH1/master/CH1_notes2.Rmd))
 
-
 - Monday August 31:
    - [HW2 Due 8 AM Tuesday](https://stat505.github.io/HW2/) ([Download Github Repo](https://classroom.github.com/a/4MufjEzB))
 
@@ -78,7 +77,6 @@
 - Weekly Reading: 
    - ROS Chapter 5
 
-
 - Monday September 21: 
    - [HW5 Due ~~8 AM Tuesday~~ Next Week](https://stat505.github.io/HW5/) ([Download Github Repo](https://classroom.github.com/a/_D011XLQ))
  
@@ -97,7 +95,6 @@
    - ROS Chapter 6
    - ROS Chapter 7
 
-
 - Monday September 28: __Synchronous Virtual Class on Teams__
    - [HW5 Due 8 AM Tuesday](https://stat505.github.io/HW5/) ([Download Github Repo](https://classroom.github.com/a/_D011XLQ))
  
@@ -113,7 +110,6 @@
 - Weekly Reading: 
    - ROS Chapter 9
 
-
 - Monday October 5:
    - [HW6 Due 8 AM Tuesday](https://stat505.github.io/HW6/) ([Download GitHub Repo](https://classroom.github.com/a/S7XWjsGS))
  
@@ -127,8 +123,9 @@
 - Weekly Reading: 
    - ROS Chapter 10
 
-
 - Monday October 12:
+   - HW 7 due 8 AM Tuesday
+   - Project 2 First Submission ([Project Overview](https://github.com/STAT505/project2/blob/master/Project2_Info.pdf))
  
 - Wednesday October 14: __Synchronous Virtual Class on Teams__
 
@@ -140,8 +137,8 @@
 
 - Weekly Reading: 
 
-
 - Monday October 19:
+   - Midterm Take Home Due
  
 - Wednesday October 21: __Synchronous Virtual Class on Teams__
 
