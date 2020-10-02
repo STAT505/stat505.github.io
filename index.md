@@ -112,7 +112,7 @@
    - ROS Chapter 9
 
 - Virtual Coding Lab: 
-   - Prediction with `stan_glm()`
+   - [Prediction with `stan_glm()`](https://github.com/STAT505/CH9/blob/main/Coding_Exercise.pdf) ([RMD Source Code](https://github.com/STAT505/CH9/blob/main/Coding_Exercise.Rmd))
 
 - Monday October 5:
    - [HW6 Due 8 AM Tuesday](https://stat505.github.io/HW6/) ([Download GitHub Repo](https://classroom.github.com/a/S7XWjsGS))
