@@ -101,14 +101,18 @@
 - Wednesday September 30: __Synchronous Virtual Class on Teams__
    - Project 1 Final Version Due
 
-- Friday October 2: __Synchronous Virtual Class on Teams__
+- Friday October 2: 
 
 
 ### Week Eight: Prediction and Bayesian Inference
 - Weekly Notes: 
+   - [PDF Skeleton: Ch. 9](https://github.com/STAT505/CH9/blob/main/CH9.pdf) ([Rmd Source Code](https://github.com/STAT505/CH9/blob/main/CH9.Rmd))
 
 - Weekly Reading: 
    - ROS Chapter 9
+
+- Virtual Coding Lab: 
+   - Prediction with `stan_glm()`
 
 - Monday October 5:
    - [HW6 Due 8 AM Tuesday](https://stat505.github.io/HW6/) ([Download GitHub Repo](https://classroom.github.com/a/S7XWjsGS))
@@ -125,9 +129,9 @@
 
 - Monday October 12:
    - HW 7 due 8 AM Tuesday
-   - Project 2 First Submission ([Project Overview](https://github.com/STAT505/project2/blob/master/Project2_Info.pdf))
  
 - Wednesday October 14: __Synchronous Virtual Class on Teams__
+   - Project 2 First Submission ([Project Overview](https://github.com/STAT505/project2/blob/master/Project2_Info.pdf))
 
 - Friday October 16:
 
@@ -152,7 +156,6 @@
 
 
 - Monday October 26:
-   - Project 2 Final Version Due
  
 - Wednesday October 28: __Synchronous Virtual Class on Teams__
 
