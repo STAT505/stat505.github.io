@@ -128,7 +128,7 @@
    - ROS Chapter 10
 
 - Monday October 12:
-   - HW 7 due 8 AM Tuesday
+   - [HW 7 due 8 AM Tuesday](https://stat505.github.io/HW7/) ([Download GitHub Repo](https://classroom.github.com/a/4BhrVOym))
  
 - Wednesday October 14: __Synchronous Virtual Class on Teams__
    - Project 2 First Submission ([Project Overview](https://github.com/STAT505/project2/blob/master/Project2_Info.pdf))
