@@ -121,7 +121,7 @@
 
 - Friday October 9:
 
-### Week Nine:  (Midterm) + Regression with multiple predictors
+### Week Nine:  (Midterm?) + Regression with multiple predictors
 - Weekly Notes: 
 
 - Weekly Reading: 
@@ -142,7 +142,7 @@
 - Weekly Reading: 
 
 - Monday October 19:
-   - Midterm Take Home Due
+   - Midterm Take Home Due?
  
 - Wednesday October 21: __Synchronous Virtual Class on Teams__
 
