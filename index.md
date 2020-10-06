@@ -123,9 +123,15 @@
 
 ### Week Nine:  (Midterm?) + Regression with multiple predictors
 - Weekly Notes: 
+   - [PDF Skeleton: Ch. 10](https://github.com/STAT505/CH10/blob/main/CH10.pdf) ([Rmd Source Code](https://github.com/STAT505/CH10/blob/main/CH10.Rmd))
+
 
 - Weekly Reading: 
-   - ROS Chapter 10
+   - ROS Chapter 10.1 - 10.6
+   
+- Virtual Coding Lab: 
+   - [Interaction with Fake Data](https://github.com/STAT505/Ch10/blob/main/Interaction_Activity.pdf) ([RMD Source Code](https://github.com/STAT505/Ch10/blob/main/Interaction_Activity.Rmd)) 
+
 
 - Monday October 12:
    - [HW 7 due 8 AM Tuesday](https://stat505.github.io/HW7/) ([Download GitHub Repo](https://classroom.github.com/a/4BhrVOym))
@@ -137,7 +143,7 @@
 
 ### Week Ten: (Maximum Likelihood / Mathematical Statistics) 
 - Weekly Notes: 
-   - ROS Chapter 8
+   - ROS Chapter 8 + 10.7 -
 
 - Weekly Reading: 
 
