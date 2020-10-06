@@ -139,7 +139,7 @@
 - Wednesday October 14: __Synchronous Virtual Class on Teams__
    - Project 2 First Submission ([Project Overview](https://github.com/STAT505/project2/blob/master/Project2_Info.pdf))
 
-- Friday October 16:
+- Friday October 16: 
 
 ### Week Ten: (Maximum Likelihood / Mathematical Statistics) 
 - Weekly Notes: 
@@ -148,7 +148,7 @@
 - Weekly Reading: 
 
 - Monday October 19:
-   - Midterm Take Home Due?
+   - Midterm Take Home Due 8 AM Tuesday
  
 - Wednesday October 21: __Synchronous Virtual Class on Teams__
 
