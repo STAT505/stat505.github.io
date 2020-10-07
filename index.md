@@ -140,7 +140,7 @@
    
 
 - Friday October 16: 
-   - Project 2 First Submission (Due 11:59 PM) ([Project Overview](https://github.com/STAT505/project2/blob/master/Project2_Info.pdf))
+   - Project 2 First Submission (Due 11:59 PM) ([Project Overview](https://github.com/STAT505/project2/blob/master/Project2_Info.pdf)) ([Download GitHub Repo](https://classroom.github.com/g/hrheG7iR))
    - Take home exam assigned
    
 ### Week Ten: (Maximum Likelihood / Mathematical Statistics) 
