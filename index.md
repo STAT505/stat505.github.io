@@ -119,7 +119,7 @@
  
 - Wednesday October 7: __Synchronous Virtual Class on Teams__
 
-- Friday October 9:
+- Friday October 9: __Synchronous Virtual Class on Teams__
 
 ### Week Nine:  (Midterm?) + Regression with multiple predictors
 - Weekly Notes: 
