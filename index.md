@@ -148,11 +148,11 @@
 - Weekly Reading: 
 
 - Monday October 19:
-   - Midterm Take Home Due 8 AM Tuesday
-   - _Previous Exam:_ [STAT506 Midterm](https://github.com/STAT506/midterm/blob/master/Midterm_S2020.pdf)
+  
  
 - Wednesday October 21: __Synchronous Virtual Class on Teams__
-
+   - Midterm Take Home Due 8 AM 
+   - _Previous Exam:_ [STAT506 Midterm](https://github.com/STAT506/midterm/blob/master/Midterm_S2020.pdf)
 - Friday October 23:
 
 ### Week Eleven: (Assumptions & Model Diagnostics, Part I)
