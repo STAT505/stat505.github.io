@@ -137,10 +137,12 @@
    - [HW 7 due 8 AM Tuesday](https://stat505.github.io/HW7/) ([Download GitHub Repo](https://classroom.github.com/a/4BhrVOym))
  
 - Wednesday October 14: __Synchronous Virtual Class on Teams__
-   - Project 2 First Submission ([Project Overview](https://github.com/STAT505/project2/blob/master/Project2_Info.pdf))
+   
 
 - Friday October 16: 
-
+   - Project 2 First Submission (Due 11:59 PM) ([Project Overview](https://github.com/STAT505/project2/blob/master/Project2_Info.pdf))
+   - Take home exam assigned
+   
 ### Week Ten: (Maximum Likelihood / Mathematical Statistics) 
 - Weekly Notes: 
    - ROS Chapter 8 + 10.7 -
@@ -150,11 +152,12 @@
 - Monday October 19:
   
  
-- Wednesday October 21: __Synchronous Virtual Class on Teams__
-   - Midterm Take Home Due 8 AM 
-   - _Previous Exam:_ [STAT506 Midterm](https://github.com/STAT506/midterm/blob/master/Midterm_S2020.pdf)
+- Wednesday October 21: __No Class, Work on Take Home Exam__
+  
 - Friday October 23:
-
+   - Midterm Take Home Due 11:59 PM 
+   - _Previous Exam:_ [STAT506 Midterm](https://github.com/STAT506/midterm/blob/master/Midterm_S2020.pdf)
+   
 ### Week Eleven: (Assumptions & Model Diagnostics, Part I)
 - Weekly Notes: 
 
