@@ -130,7 +130,7 @@
    - ROS Chapter 10.1 - 10.6
    
 - Virtual Coding Lab: 
-   - [Interaction with Fake Data](https://github.com/STAT505/Ch10/blob/main/Interaction_Activity.pdf) ([RMD Source Code](https://github.com/STAT505/Ch10/blob/main/Interaction_Activity.Rmd)) 
+   - [Interaction with Fake Data](https://github.com/STAT505/Ch10/blob/main/Interaction_Activity.pdf) ([RMD Source Code](https://github.com/STAT505/Ch10/blob/main/Interaction_Activity.Rmd)) ([Video](https://montana.techsmithrelay.com/m9Vo))
 
 
 - Monday October 12:
