@@ -145,10 +145,11 @@
    
 ### Week Ten: (Maximum Likelihood / Mathematical Statistics) 
 - Weekly Notes: 
-   - ROS Chapter 8 + 10.7 -
+   - [PDF Skeleton Chapter 8](https://github.com/STAT505/CH8/blob/main/CH8.pdf) ([RMD Source Code](https://github.com/STAT505/CH8/blob/main/CH8.Rmd))
 
 - Weekly Reading: 
-
+   - ROS Chapter 8 
+   
 - Monday October 19:
   
  
