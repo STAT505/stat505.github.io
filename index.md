@@ -121,7 +121,7 @@
 
 - Friday October 9: __Synchronous Virtual Class on Teams__
 
-### Week Nine:  (Midterm?) + Regression with multiple predictors
+### Week Nine:  Midterm + Regression with multiple predictors
 - Weekly Notes: 
    - [PDF Skeleton: Ch. 10](https://github.com/STAT505/CH10/blob/main/CH10.pdf) ([Rmd Source Code](https://github.com/STAT505/CH10/blob/main/CH10.Rmd))
 
@@ -161,6 +161,7 @@
    
 ### Week Eleven: (Assumptions & Model Diagnostics, Part I)
 - Weekly Notes: 
+   - [PDF Skeleton Chapter 11, Part 1](https://github.com/STAT505/CH11/blob/main/CH11.pdf) ([RMD Source Code](https://github.com/STAT505/CH11/blob/main/CH11.Rmd))
 
 - Weekly Reading: 
    - ROS Chapter 11
