@@ -180,6 +180,8 @@
 
 
 - Monday November 2:
+   - Project 2 Final Submission (Due at Class time on Monday)
+
  
 - Wednesday November 4: __Synchronous Virtual Class on Teams__
 
@@ -211,7 +213,6 @@
    - Project 3 Final Version Due
 
 
-- Friday November 20:
 
 ### Week Fifteen (finals week):  
 
