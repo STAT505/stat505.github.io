@@ -175,9 +175,10 @@
 
 ### Week Twelve:  (Assumptions & Model Diagnostics, Part II)
 - Weekly Notes: 
+   - [PDF Skeleton Chapter 11, Part 2](https://github.com/STAT505/CH11/blob/main/CH11_part2.pdf) ([RMD Source Code](https://github.com/STAT505/CH11/blob/main/CH11_part2.Rmd))
 
 - Weekly Reading: 
-
+   - ROS Chapter 12.1 - 12.6
 
 - Monday November 2:
    - Project 2 Final Submission (Due at Class time on Monday)
@@ -210,8 +211,6 @@
 - Monday November 16:
  
 - Wednesday November 18: __Synchronous Virtual Class on Teams__
-   - Project 3 Final Version Due
-
 
 
 ### Week Fifteen (finals week):  
