@@ -198,6 +198,7 @@
 
 
 - Monday November 9:
+   - [HW 8 due 8 AM Tuesday](https://stat505.github.io/HW8/) ([Download GitHub Repo](https://classroom.github.com/a/sC1-buk4))
  
 - Wednesday November 11: __No Class: Veteran's Day__
 
