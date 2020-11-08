@@ -191,7 +191,8 @@
 - Friday November 6:
 
 ### Week Thirteen: (Logistic Regression)
-- Weekly Notes: 
+- Weekly Notes:
+ - [PDF Skeleton: Chapter 13](https://github.com/STAT505/CH13/blob/main/CH13.pdf)([RMD Source Code](https://github.com/STAT505/CH13/blob/main/CH13.Rmd))
 
 - Weekly Reading: 
    - Chapter 13
