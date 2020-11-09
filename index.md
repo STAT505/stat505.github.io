@@ -192,11 +192,10 @@
 
 ### Week Thirteen: (Logistic Regression)
 - Weekly Notes:
- - [PDF Skeleton: Chapter 13](https://github.com/STAT505/CH13/blob/main/CH13.pdf)([RMD Source Code](https://github.com/STAT505/CH13/blob/main/CH13.Rmd))
+ - [PDF Skeleton: Chapter 13](https://github.com/STAT505/CH13/blob/main/CH13.pdf) ([RMD Source Code](https://github.com/STAT505/CH13/blob/main/CH13.Rmd))
 
 - Weekly Reading: __Synchronous Virtual Class on Teams__
    - Chapter 13
-
 
 - Monday November 9:
    - [HW 8 due 8 AM Tuesday](https://stat505.github.io/HW8/) ([Download GitHub Repo](https://classroom.github.com/a/sC1-buk4))
@@ -207,7 +206,7 @@
 
 ### Week Fourteen:  (Logistic Regression, Part 2)
 - Weekly Notes: 
-   - [PDF Skeleton: Chapter 14](https://github.com/STAT505/CH14/blob/main/CH14.pdf)([RMD Source Code](https://github.com/STAT505/CH14/blob/main/CH14.Rmd))
+   - [PDF Skeleton: Chapter 14](https://github.com/STAT505/CH14/blob/main/CH14.pdf) ([RMD Source Code](https://github.com/STAT505/CH14/blob/main/CH14.Rmd))
 - Weekly Reading: 
    - Chapter 14
 
@@ -215,7 +214,7 @@
 - Monday November 16:
  
 - Wednesday November 18: __Synchronous Virtual Class on Teams__
-
+  - [HW 9 due 10 AM Wednesday](https://stat505.github.io/HW9/) ([Download GitHub Repo](https://classroom.github.com/a/wjCcYybX))
 
 ### Week Fifteen (finals week):  
 
