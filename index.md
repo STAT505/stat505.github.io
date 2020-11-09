@@ -194,7 +194,7 @@
 - Weekly Notes:
  - [PDF Skeleton: Chapter 13](https://github.com/STAT505/CH13/blob/main/CH13.pdf)([RMD Source Code](https://github.com/STAT505/CH13/blob/main/CH13.Rmd))
 
-- Weekly Reading: 
+- Weekly Reading: __Synchronous Virtual Class on Teams__
    - Chapter 13
 
 
@@ -207,7 +207,7 @@
 
 ### Week Fourteen:  (Logistic Regression, Part 2)
 - Weekly Notes: 
-
+   - [PDF Skeleton: Chapter 14](https://github.com/STAT505/CH14/blob/main/CH14.pdf)([RMD Source Code](https://github.com/STAT505/CH14/blob/main/CH14.Rmd))
 - Weekly Reading: 
    - Chapter 14
 
