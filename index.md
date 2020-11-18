@@ -213,12 +213,13 @@
 
 - Monday November 16:
  
-- Wednesday November 18: __Synchronous Virtual Class on Teams__
+- Wednesday November 18: 
   - [HW 9 due 10 AM Wednesday](https://stat505.github.io/HW9/) ([Download GitHub Repo](https://classroom.github.com/a/wjCcYybX))
 
 ### Week Fifteen (finals week):  
 
-- Take home Exam this week.
+- [Take home Exam Due Wednesday at 11:59 PM](https://github.com/STAT505/final/blob/main/Final_F2020.pdf) ([RMD Source Code](https://raw.githubusercontent.com/STAT505/final/main/Final_F2020.Rmd))
+
 
 ---
 
