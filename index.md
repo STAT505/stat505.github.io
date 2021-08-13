@@ -1,4 +1,3 @@
-## Course Syllabus
 
 A [PDF of the syllabus](https://github.com/STAT505/Syllabus/raw/master/syllabus2021.pdf) is available.
 
