@@ -88,20 +88,26 @@ In the event that one or more students and/or the instructor are required to qua
 ### Week Two: Regression Overview
 - Weekly Reading: ROS Chapter 1
 - Weekly Notes: [PDF skeleton](https://github.com/STAT505/CH1/raw/master/CH1_notes.pdf) ([Rmd Source Code](https://raw.githubusercontent.com/STAT505/CH1/master/CH1_notes.Rmd))
+- Weekly HW (due Thursday September 2): [HW1](https://stat505.github.io/HW1/) ([Download GitHub Repo](https://classroom.github.com/a/YWzLroKY))
 
 - Monday August 30: (__Asynchronous Class__)
    - [Git Demo Slides](https://stat505.github.io/GitDemo/)
    - [Stan/Rstan Guide](https://mc-stan.org/users/interfaces/rstan)
 
-<!-- - Monday August 24:-->  
-<!--   - [Class Demo Continued...](https://github.com/STAT505/CourseDemo/blob/master/Lab1.pdf) ([RMD Source Code](https://raw.githubusercontent.com/STAT505/CourseDemo/master/Lab1.Rmd))
-   - [HW1 Due 8 AM Tuesday](https://stat505.github.io/HW1/) ([Download GitHub Repo](https://classroom.github.com/a/z0sYe7kH))
+- Wednesday September 1:
+   - Git Demo Summary
+   - ROS Chapter 1
 
-- Wednesday August 26: (__Synchronous Virtual Class on Teams__)
-   - If possible, watch Andrew Gelman presentation, 9 AM in Bozeman. [Register Here](https://criteo.zoom.us/webinar/register/WN_c-YbEbeDRRWpguEGN7dduA)
-   - Join class on Teams for an informal class discussion at 10 AM.
-   
-- Friday August 28:
+- Friday September 3:
+   - ROS Chapter 1   
+
+### Week Three: More Regression
+
+- Weekly Notes: [PDF skeleton](https://github.com/STAT505/CH1/raw/master/CH1_notes2.pdf) ([Rmd Source Code](https://raw.githubusercontent.com/STAT505/CH1/master/CH1_notes2.Rmd))
+- Weekly HW (due Thursday September 9): HW2
+
+- Monday September 7: (__Labor Day, No Class__)
+<!--   
 
 
 ### Week Three: More Regression
