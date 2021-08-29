@@ -8,11 +8,12 @@ Course Schedule
    - [Tidyverse Demo Video (made for STAT408)](https://montana.techsmithrelay.com/hho8) ([RMD Source (includes STAT 408 material)](https://raw.githubusercontent.com/stat408/Lecture1/master/docs/index.Rmd)
    - [Class Demo](https://github.com/STAT505/CourseDemo/blob/master/Lab1.pdf) ([RMD Source Code](https://raw.githubusercontent.com/STAT505/CourseDemo/master/Lab1.Rmd))
 
+---
 
 ### Week Two: Regression Overview
 - Weekly Reading: ROS Chapter 1
 - Weekly Notes: [PDF skeleton](https://github.com/STAT505/CH1/raw/master/CH1_notes.pdf) ([Rmd Source Code](https://raw.githubusercontent.com/STAT505/CH1/master/CH1_notes.Rmd))
-- Weekly HW (due Thursday September 2): [HW1](https://stat505.github.io/HW1/) ([Download GitHub Repo](https://classroom.github.com/a/YWzLroKY))
+- Weekly Assignments (due Thursday September 2): [HW1](https://stat505.github.io/HW1/) ([Download GitHub Repo](https://classroom.github.com/a/YWzLroKY))
 
 - Monday August 30: (__Asynchronous Class__)
    - [Git Demo Slides](https://stat505.github.io/GitDemo/)
@@ -25,17 +26,28 @@ Course Schedule
 - Friday September 3:
    - ROS Chapter 1   
 
+---
+
 ### Week Three: More Regression
 
 - Weekly Notes: [PDF skeleton](https://github.com/STAT505/CH1/raw/master/CH1_notes2.pdf) ([Rmd Source Code](https://raw.githubusercontent.com/STAT505/CH1/master/CH1_notes2.Rmd))
-- Weekly HW (due Thursday September 9): HW2
+- Weekly Assignments (due Thursday September 9): 
+   -  HW2
+   -  Project 1 Proposal
 
 - Monday September 6: (__Labor Day, No Class__)
 - Wednesday September 8:
 - Friday September 10:
 []( - Monday August 31:- [HW2 Due 8 AM Tuesday](https://stat505.github.io/HW2/) ([Download Github Repo](https://classroom.github.com/a/4MufjEzB))- Wednesday September 2:- Friday September 4:)
 
+---
+
 ### Week Four
+- Weekly Reading:
+- Weekly Notes:
+- Weekly Assignments (due Thursday September 16): 
+   - HW3
+
 
 - Monday September 13: 
 - Wednesday September 15:
@@ -45,6 +57,11 @@ Course Schedule
 [](### Week Four: Data and Data Visualization - Weekly Notes: - [PDF skeleton: Ch. 2](https://github.com/STAT505/CH2/blob/master/CH2.pdf) ([Rmd Source Code](https://github.com/STAT505/CH2/blob/master/CH2.Rmd))- [PDF skeleton: Ch. 3](https://github.com/STAT505/CH3/blob/master/CH3.pdf) ([Rmd Source Code](https://github.com/STAT505/CH3/blob/master/CH3.Rmd)) - Weekly Reading: - ROS Chapter 2 + Chapter 3   - [ggplot website + cheatsheet](https://ggplot2.tidyverse.org) - Monday September 7: __Labor Day: No Class__ - Wednesday September 9: __Synchronous Virtual Class on Teams__ - [HW3 Due 8 AM Wednesday](https://stat505.github.io/HW3/) ([Download Github Repo](https://classroom.github.com/a/no3JhetU)) - Friday September 11:)
 
 ### Week Five
+- Weekly Reading:
+- Weekly Notes:
+- Weekly Assignments (due Thursday September 23): 
+   - HW4
+   - Project 1 Submission #1
 
 - Monday September 20: 
 - Wednesday September 22:
@@ -53,6 +70,11 @@ Course Schedule
 [](### Week Five: Statistical Inference and NHST - Weekly Notes: - [PDF skeleton: Ch. 4 Part 1](https://github.com/STAT505/CH4/blob/master/CH4.pdf) ([Rmd Source Code](https://github.com/STAT505/CH4/blob/master/CH4.Rmd)) -[PDF skeleton: Ch. 4 Part 2](https://github.com/STAT505/CH4/blob/master/CH4part2.pdf) ([Rmd Source Code](https://github.com/STAT505/CH4/blob/master/CH4part2.Rmd)) - Weekly Reading: - ROS Chapter 4 - Monday September 14: - [HW4 Due 8 AM Tuesday](https://stat505.github.io/HW4/) ([Download Github Repo](https://classroom.github.com/a/NyZAkfeN)) - Wednesday September 16: __Synchronous Virtual Class on Teams__ - [Project 1 Due](https://stat505.github.io/Project1/) ([Download Github Repo](https://classroom.github.com/a/CL5Ba2lt)) - Friday September 18:)
 
 ### Week Six
+- Weekly Reading:
+- Weekly Notes:
+- Weekly Assignments (due Thursday September 30): 
+   - HW5
+   - Project 2 Proposal
 
 - Monday September 27: 
 - Wednesday September 29:
@@ -61,14 +83,23 @@ Course Schedule
 [](### Week Six: More Inference + Simulation - Weekly Notes: - [PDF skeleton: Ch. 5](https://github.com/STAT505/CH5/blob/master/CH5.pdf) ([Rmd Source Code](https://github.com/STAT505/CH5/blob/master/CH5.Rmd)) - Weekly Reading: - ROS Chapter 5 - Monday September 21: - [HW5 Due ~~8 AM Tuesday~~ Next Week](https://stat505.github.io/HW5/) ([Download Github Repo](https://classroom.github.com/a/_D011XLQ)) - Wednesday September 23: __Synchronous Virtual Class on Teams__ - Friday September 25:)
 
 ### Week Seven
+- Weekly Reading:
+- Weekly Notes:
+- Weekly Assignments (due Thursday October 7): 
+   - HW6
+   - Project 1 Submission 2
 
 - Monday October 4: 
 - Wednesday October 6:
-- Friday October 8:
+- Friday October 8: __MT ASA Chapter Meeting__
 
 [](### Week Seven: Regression (finally) - Weekly Notes: - [PDF skeleton: Ch. 6](https://github.com/STAT505/CH6/blob/master/CH6.pdf) ([Rmd Source Code](https://github.com/STAT505/CH6/blob/master/CH6.Rmd)) - [PDF skeleton: Ch. 7](https://github.com/STAT505/CH7/blob/master/CH7.pdf) ([Rmd Source Code](https://github.com/STAT505/CH6/blob/master/CH7.Rmd)) - Weekly Reading: - ROS Chapter 6 - ROS Chapter 7 - Monday September 28: __Synchronous Virtual Class on Teams__ - [HW5 Due 8 AM Tuesday](https://stat505.github.io/HW5/) ([Download Github Repo](https://classroom.github.com/a/_D011XLQ)) - Wednesday September 30: __Synchronous Virtual Class on Teams__ - Project 1 Final Version Due - Friday October 2:)
 
 ### Week Eight
+- Weekly Reading:
+- Weekly Notes:
+- Weekly Assignments (due Thursday October 14): 
+   - HW7
 
 - Monday October 11: 
 - Wednesday October 13:
@@ -77,6 +108,12 @@ Course Schedule
 [](### Week Eight: Prediction and Bayesian Inference - Weekly Notes: - [PDF Skeleton: Ch. 9](https://github.com/STAT505/CH9/blob/main/CH9.pdf) ([Rmd Source Code](https://github.com/STAT505/CH9/blob/main/CH9.Rmd)) - Weekly Reading: - ROS Chapter 9 - Virtual Coding Lab: - [Prediction with `stan_glm()`](https://github.com/STAT505/CH9/blob/main/Coding_Exercise.pdf) ([RMD Source Code](https://github.com/STAT505/CH9/blob/main/Coding_Exercise.Rmd)) ([Video Guide](https://montana.techsmithrelay.com/xDce)) - Monday October 5: - [HW6 Due 8 AM Tuesday](https://stat505.github.io/HW6/) ([Download GitHub Repo](https://classroom.github.com/a/S7XWjsGS)) - Wednesday October 7: __Synchronous Virtual Class on Teams__ - Friday October 9: __Synchronous Virtual Class on Teams__)
 
 ### Week Nine
+- Weekly Reading:
+- Weekly Notes:
+- Weekly Assignments (due Thursday October 21): 
+   - HW8
+   - Project 2, Submission 1 (Peer Review)
+
 
 - Monday October 18: 
 - Wednesday October 20:
@@ -85,7 +122,11 @@ Course Schedule
 [](### Week Nine:  Midterm + Regression with multiple predictors - Weekly Notes: - [PDF Skeleton: Ch. 10](https://github.com/STAT505/CH10/blob/main/CH10.pdf) ([Rmd Source Code](https://github.com/STAT505/CH10/blob/main/CH10.Rmd)) - Weekly Reading: - ROS Chapter 10.1 - 10.6 - Virtual Coding Lab: - [Interaction with Fake Data](https://github.com/STAT505/Ch10/blob/main/Interaction_Activity.pdf) ([RMD Source Code](https://github.com/STAT505/Ch10/blob/main/Interaction_Activity.Rmd)) ([Video](https://montana.techsmithrelay.com/m9Vo)) - Monday October 12: - [HW 7 due 8 AM Tuesday](https://stat505.github.io/HW7/) ([Download GitHub Repo](https://classroom.github.com/a/4BhrVOym)) - Wednesday October 14: __Synchronous Virtual Class on Teams__ - Friday October 16: - Project 2 First Submission (Due 11:59 PM) ([Project Overview](https://github.com/STAT505/project2/blob/master/Project2_Info.pdf)) ([Download GitHub Repo](https://classroom.github.com/g/hrheG7iR)) - Take home exam assigned: ([PDF](https://github.com/STAT505/midterm/blob/main/Midterm_F2020.pdf)) ([Download GitHub Repo](https://classroom.github.com/a/wvpzSZr8)))
 
 ### Week Ten
-
+- Weekly Reading:
+- Weekly Notes:
+- Weekly Assignments (due Thursday October 28): 
+   - Exam 1
+  
 - Monday October 25: 
 - Wednesday October 27:
 - Friday October 29:
@@ -94,6 +135,11 @@ Course Schedule
 [](### Week Ten: (Maximum Likelihood / Mathematical Statistics) - Weekly Notes: - [PDF Skeleton Chapter 8](https://github.com/STAT505/CH8/blob/main/CH8.pdf) ([RMD Source Code](https://github.com/STAT505/CH8/blob/main/CH8.Rmd)) - Weekly Reading: - ROS Chapter 8 - Monday October 19: - Wednesday October 21: __No Class, Work on Take Home Exam__ - Friday October 23: - Midterm Take Home Due 11:59 PM - _Previous Exam:_ [STAT506 Midterm](https://github.com/STAT506/midterm/blob/master/Midterm_S2020.pdf))
 
 ### Week Eleven
+- Weekly Reading:
+- Weekly Notes:
+- Weekly Assignments (due Thursday November 4): 
+   - HW9
+   - Project 2 Submission 2
 
 - Monday November 1: 
 - Wednesday November 3:
@@ -102,6 +148,11 @@ Course Schedule
 [](### Week Eleven: (Assumptions & Model Diagnostics, Part I) - Weekly Notes: - [PDF Skeleton Chapter 11, Part 1](https://github.com/STAT505/CH11/blob/main/CH11.pdf) ([RMD Source Code](https://github.com/STAT505/CH11/blob/main/CH11.Rmd)) - Weekly Reading: - ROS Chapter 11 - Monday October 26: - Wednesday October 28: __Synchronous Virtual Class on Teams__ - Friday October 30:)
 
 ### Week Twelve
+- Weekly Reading:
+- Weekly Notes:
+- Weekly Assignments (due Thursday November 11): 
+   - HW10
+   - Project 3 Proposal
 
 - Monday November 8: 
 - Wednesday November 10:
@@ -110,6 +161,11 @@ Course Schedule
 [](### Week Twelve:  (Assumptions & Model Diagnostics, Part II) - Weekly Notes: - [PDF Skeleton Chapter 11, Part 2](https://github.com/STAT505/CH11/blob/main/CH11_part2.pdf) ([RMD Source Code](https://github.com/STAT505/CH11/blob/main/CH11_part2.Rmd)) - [PDF Skeleton: Chapter 12](https://github.com/STAT505/CH12/blob/main/CH12.pdf)([RMD Source Code](https://github.com/STAT505/CH12/blob/main/CH12.Rmd)) - Weekly Reading: - ROS Chapter 12.1 - 12.6 - ROS Appendix B - Monday November 2: - Project 2 Final Submission (Due at Class time on Monday) - Wednesday November 4: __Synchronous Virtual Class on Teams__ - Friday November 6:)
 
 ### Week Thirteen
+- Weekly Reading:
+- Weekly Notes:
+- Weekly Assignments (due Thursday November 18): 
+   - HW11
+
 
 - Monday November 15: 
 - Wednesday November 17:
@@ -126,6 +182,11 @@ Course Schedule
 [](### Week Fourteen:  (Logistic Regression, Part 2) - Weekly Notes: - [PDF Skeleton: Chapter 14](https://github.com/STAT505/CH14/blob/main/CH14.pdf) ([RMD Source Code](https://github.com/STAT505/CH14/blob/main/CH14.Rmd)) - Weekly Reading: - Chapter 14 - Monday November 16: - Wednesday November 18: - [HW 9 due 10 AM Wednesday](https://stat505.github.io/HW9/) ([Download GitHub Repo](https://classroom.github.com/a/wjCcYybX))) 
 
 ### Week Fifteen
+- Weekly Reading:
+- Weekly Notes:
+- Weekly Assignments (due December 2): 
+   - HW12
+   - Project 3 Due
 
 - Monday November 29: 
 - Wednesday December 1: 
@@ -134,6 +195,10 @@ Course Schedule
 [](### Week Fifteen (finals week):  - [Take home Exam Due Wednesday at 11:59 PM](https://github.com/STAT505/final/blob/main/Final_F2020.pdf) ([RMD Source Code](https://raw.githubusercontent.com/STAT505/final/main/Final_F2020.Rmd)) ([Download Github Repo](https://classroom.github.com/a/SFYX2TUS))) 
 
 ### Week Sixteen
+- Weekly Reading:
+- Weekly Notes:
+- Weekly Assignments: 
+   - Project 3 Presentations in Clas
 
 - Monday December 6: 
 - Wednesday December 8: 
@@ -141,7 +206,7 @@ Course Schedule
 
 ### Week Seventeen
 
-- Monday December 13: __scheduled final 10 - 11:50__ 
+- Monday December 13: __scheduled final 10 - 11:50 Final Exam__ 
 
 ---
 A [PDF of the syllabus](https://github.com/STAT505/Syllabus/raw/master/syllabus2021.pdf) is available.
