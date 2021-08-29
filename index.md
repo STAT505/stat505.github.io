@@ -18,9 +18,9 @@ Course Schedule
    - [Git Demo Slides](https://stat505.github.io/GitDemo/)
    - [Stan/Rstan Guide](https://mc-stan.org/users/interfaces/rstan)
 
-- Wednesday September 1:
+- Wednesday September 1: (_bring computer to class_)
    - Git Demo Summary
-   - ROS Chapter 1
+   - Class Demo
 
 - Friday September 3:
    - ROS Chapter 1   
@@ -31,9 +31,7 @@ Course Schedule
 - Weekly HW (due Thursday September 9): HW2
 
 - Monday September 7: (__Labor Day, No Class__)
-<!--   
-
-
+<!--  
 ### Week Three: More Regression
 
 - Weekly Notes: [PDF skeleton](https://github.com/STAT505/CH1/raw/master/CH1_notes2.pdf) ([Rmd Source Code](https://raw.githubusercontent.com/STAT505/CH1/master/CH1_notes2.Rmd))
@@ -227,8 +225,6 @@ Course Schedule
 ### Week Fifteen (finals week):  
 
 - [Take home Exam Due Wednesday at 11:59 PM](https://github.com/STAT505/final/blob/main/Final_F2020.pdf) ([RMD Source Code](https://raw.githubusercontent.com/STAT505/final/main/Final_F2020.Rmd)) ([Download Github Repo](https://classroom.github.com/a/SFYX2TUS))
-
-
 -->
 
 ---
