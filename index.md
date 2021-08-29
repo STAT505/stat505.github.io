@@ -31,40 +31,9 @@ Course Schedule
 - Weekly HW (due Thursday September 9): HW2
 
 - Monday September 7: (__Labor Day, No Class__)
-[](### Week Three: More Regression - Weekly Notes: [PDF skeleton](https://github.com/STAT505/CH1/raw/master/CH1_notes2.pdf) ([Rmd Source Code](https://raw.githubusercontent.com/STAT505/CH1/master/CH1_notes2.Rmd)) - Monday August 31:- [HW2 Due 8 AM Tuesday](https://stat505.github.io/HW2/) ([Download Github Repo](https://classroom.github.com/a/4MufjEzB))- Wednesday September 2:- Friday September 4:)
+[]( - Monday August 31:- [HW2 Due 8 AM Tuesday](https://stat505.github.io/HW2/) ([Download Github Repo](https://classroom.github.com/a/4MufjEzB))- Wednesday September 2:- Friday September 4:### Week Four: Data and Data Visualization - Weekly Notes: - [PDF skeleton: Ch. 2](https://github.com/STAT505/CH2/blob/master/CH2.pdf) ([Rmd Source Code](https://github.com/STAT505/CH2/blob/master/CH2.Rmd))- [PDF skeleton: Ch. 3](https://github.com/STAT505/CH3/blob/master/CH3.pdf) ([Rmd Source Code](https://github.com/STAT505/CH3/blob/master/CH3.Rmd)) - Weekly Reading: - ROS Chapter 2 + Chapter 3   - [ggplot website + cheatsheet](https://ggplot2.tidyverse.org) - Monday September 7: __Labor Day: No Class__ - Wednesday September 9: __Synchronous Virtual Class on Teams__ - [HW3 Due 8 AM Wednesday](https://stat505.github.io/HW3/) ([Download Github Repo](https://classroom.github.com/a/no3JhetU)) - Friday September 11:)
 
-### Week Four: Data and Data Visualization
-- Weekly Notes: 
-   - [PDF skeleton: Ch. 2](https://github.com/STAT505/CH2/blob/master/CH2.pdf) ([Rmd Source Code](https://github.com/STAT505/CH2/blob/master/CH2.Rmd))
-   - [PDF skeleton: Ch. 3](https://github.com/STAT505/CH3/blob/master/CH3.pdf) ([Rmd Source Code](https://github.com/STAT505/CH3/blob/master/CH3.Rmd))
-
-- Weekly Reading: 
-   - ROS Chapter 2 + Chapter 3
-   - [ggplot website + cheatsheet](https://ggplot2.tidyverse.org)
-
-- Monday September 7: __Labor Day: No Class__
- 
-- Wednesday September 9: __Synchronous Virtual Class on Teams__
-   - [HW3 Due 8 AM Wednesday](https://stat505.github.io/HW3/) ([Download Github Repo](https://classroom.github.com/a/no3JhetU))
-
-- Friday September 11:
-
-### Week Five: Statistical Inference and NHST
-- Weekly Notes:
-   - [PDF skeleton: Ch. 4 Part 1](https://github.com/STAT505/CH4/blob/master/CH4.pdf) ([Rmd Source Code](https://github.com/STAT505/CH4/blob/master/CH4.Rmd))
-   - [PDF skeleton: Ch. 4 Part 2](https://github.com/STAT505/CH4/blob/master/CH4part2.pdf) ([Rmd Source Code](https://github.com/STAT505/CH4/blob/master/CH4part2.Rmd))
-
-- Weekly Reading: 
-   - ROS Chapter 4
-
-- Monday September 14: 
-   - [HW4 Due 8 AM Tuesday](https://stat505.github.io/HW4/) ([Download Github Repo](https://classroom.github.com/a/NyZAkfeN))
- 
-- Wednesday September 16: __Synchronous Virtual Class on Teams__
-   - [Project 1 Due](https://stat505.github.io/Project1/) ([Download Github Repo](https://classroom.github.com/a/CL5Ba2lt))
-
-
-- Friday September 18:
+[](### Week Five: Statistical Inference and NHST - Weekly Notes: - [PDF skeleton: Ch. 4 Part 1](https://github.com/STAT505/CH4/blob/master/CH4.pdf) ([Rmd Source Code](https://github.com/STAT505/CH4/blob/master/CH4.Rmd)) -[PDF skeleton: Ch. 4 Part 2](https://github.com/STAT505/CH4/blob/master/CH4part2.pdf) ([Rmd Source Code](https://github.com/STAT505/CH4/blob/master/CH4part2.Rmd)) - Weekly Reading: - ROS Chapter 4 - Monday September 14: - [HW4 Due 8 AM Tuesday](https://stat505.github.io/HW4/) ([Download Github Repo](https://classroom.github.com/a/NyZAkfeN)) - Wednesday September 16: __Synchronous Virtual Class on Teams__ - [Project 1 Due](https://stat505.github.io/Project1/) ([Download Github Repo](https://classroom.github.com/a/CL5Ba2lt)) - Friday September 18:)
 
 ### Week Six: More Inference + Simulation
 - Weekly Notes: 
