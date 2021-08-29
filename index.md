@@ -31,7 +31,6 @@ Course Schedule
 - Weekly HW (due Thursday September 9): HW2
 
 - Monday September 7: (__Labor Day, No Class__)
----
 <!--   
 
 
@@ -230,7 +229,6 @@ Course Schedule
 - [Take home Exam Due Wednesday at 11:59 PM](https://github.com/STAT505/final/blob/main/Final_F2020.pdf) ([RMD Source Code](https://raw.githubusercontent.com/STAT505/final/main/Final_F2020.Rmd)) ([Download Github Repo](https://classroom.github.com/a/SFYX2TUS))
 
 
----
 -->
 
 ---
