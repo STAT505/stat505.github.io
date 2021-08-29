@@ -1,81 +1,5 @@
 
-A [PDF of the syllabus](https://github.com/STAT505/Syllabus/raw/master/syllabus2021.pdf) is available.
-
-# Course Description
-
-This course will introduce linear models and generalized linear models using the software package R. In addition to the necessary linear algebra and statistical computing, the course will emphasize reproducible research using R Markdown, version control with GitHub, and report writing.
-
-
-
-# Learning Outcomes:
-
-- Ability to run statistical analyses in R while saving code and output in a single “package”.
-- Ability to interpret computer output from linear models.
-- Understand the derivation of generalized least squares estimates.
-- To know when the Gauss-Markov theorem applies and what it provides.
-- To use diagnostic plots to check the assumptions of linear models.
-- To interpret results from Poisson and logistic regression models.
-- Ability to state the scope of inference for a study.
-- To understand when causal inference can be made from observational studies.
-
-
-# Prerequisites
-
-- Required: STAT 412 or STAT 512 or similar
-
-# Textbooks
-
-- _Regression and Other Stories_, by Andrew Gelman, Jennifer Hill, and Aki Vehtari (Preferred)
-- _Data Analysis Using Regression and Multilevel/Hierarchical Models_, by Andrew Gelman and Jennifer Hill
-
-# Additional Resources
-Analysis, data visualization, and version control procedures will be implemented with:
-
-- R / R Studio
-- Git / Github
-
-For additional resources see:
-
-- R for Data Science, [https://r4ds.had.co.nz](https://r4ds.had.co.nz)
-- Happy Git and GitHub for the useR,  [https://happygitwithr.com](https://happygitwithr.com)
-
-# Course Policies
-
-
-### Grading Policy
-
-- **25%** of your grade will be determined by weekly homework assignments. Students are allowed and encouraged to work with classmates on homework assignments, but each student is required to complete their own homework. 
-
-- **25%** of your grade will be determined by a midterm exam. 
-
-- **25%** of your grade will be determined by a final exam.
-
-- **25%** of your grade will be determined by a series of projects. The projects will be due roughly every 3 - 4 weeks during the course of the semester and may require oral presentations.
-
-
-### Collaboration
-University policy states that, unless otherwise specified, students may not collaborate on graded material. Any exceptions to this policy will be stated explicitly for individual assignments. If you have any questions about the limits of collaboration, you are expected to ask for clarification.
-
-In this class students are encouraged to collaborate on homework assignments, but exams and projects should be completed without collaboration.
-
-###  Academic Misconduct
-Section 420 of the Student Conduct Code describes academic misconduct as including but not limited to plagiarism, cheating, multiple submissions, or facilitating others’ misconduct. Possible sanctions for academic misconduct range from an oral reprimand to expulsion from the university.
-
-### Disabilities Policy
-
-Federal law mandates the provision of services at the university-level to qualified students with disabilities. If you have a documented disability for which you are or may be requesting an accommodation(s), you are encouraged to contact the Office of Disability Services as soon as possible.
-
-### COVID-19 Information
-
-Montana State University strongly recommends students, faculty and staff wear face masks in indoor public spaces, in accordance with the Centers for Disease Control recommendations. Montana State University encourages students, faculty and staff to take advantage of convenient, on-campus clinics for the COVID-19 vaccine.
-
-Schedule your appointment by going to: www.montana.edu/health/coronavirus.
-
-Please evaluate your own health status regularly and refrain from attending class and other on-campus events if you are ill. MSU students who miss class due to illness will be given opportunities to access course materials online. You are encouraged to seek appropriate medical attention for treatment of illness. In the event of contagious illness, please do not come to class or to campus to turn in work. Instead notify me by email about your absence as soon as practical, so that accommodations can be made. Please note that documentation (a Doctor’s note) for medical excuses is not required. MSU University Health Partners - as part their commitment to maintain patient confidentiality, to encourage more appropriate use of healthcare resources, and to support meaningful dialogue between instructors and students - does not provide such documentation.
-
-In the event that one or more students and/or the instructor are required to quarantine or if the university moves courses online, the course may need to continue in a virtual format. Communication about how the course will proceed will be available through D2L and Microsoft Teams.
-
-#### Course Schedule
+Course Schedule
 
 ### Week One: Introduction: Git, R Studio, and the Tidyverse
 - Wednesday August 25: Course Overview and Class Conversation
@@ -107,6 +31,7 @@ In the event that one or more students and/or the instructor are required to qua
 - Weekly HW (due Thursday September 9): HW2
 
 - Monday September 7: (__Labor Day, No Class__)
+---
 <!--   
 
 
@@ -308,4 +233,80 @@ In the event that one or more students and/or the instructor are required to qua
 ---
 -->
 
+---
+A [PDF of the syllabus](https://github.com/STAT505/Syllabus/raw/master/syllabus2021.pdf) is available.
+
+# Course Description
+
+This course will introduce linear models and generalized linear models using the software package R. In addition to the necessary linear algebra and statistical computing, the course will emphasize reproducible research using R Markdown, version control with GitHub, and report writing.
+
+
+
+# Learning Outcomes:
+
+- Ability to run statistical analyses in R while saving code and output in a single “package”.
+- Ability to interpret computer output from linear models.
+- Understand the derivation of generalized least squares estimates.
+- To know when the Gauss-Markov theorem applies and what it provides.
+- To use diagnostic plots to check the assumptions of linear models.
+- To interpret results from Poisson and logistic regression models.
+- Ability to state the scope of inference for a study.
+- To understand when causal inference can be made from observational studies.
+
+
+# Prerequisites
+
+- Required: STAT 412 or STAT 512 or similar
+
+# Textbooks
+
+- _Regression and Other Stories_, by Andrew Gelman, Jennifer Hill, and Aki Vehtari (Preferred)
+- _Data Analysis Using Regression and Multilevel/Hierarchical Models_, by Andrew Gelman and Jennifer Hill
+
+# Additional Resources
+Analysis, data visualization, and version control procedures will be implemented with:
+
+- R / R Studio
+- Git / Github
+
+For additional resources see:
+
+- R for Data Science, [https://r4ds.had.co.nz](https://r4ds.had.co.nz)
+- Happy Git and GitHub for the useR,  [https://happygitwithr.com](https://happygitwithr.com)
+
+# Course Policies
+
+
+### Grading Policy
+
+- **25%** of your grade will be determined by weekly homework assignments. Students are allowed and encouraged to work with classmates on homework assignments, but each student is required to complete their own homework. 
+
+- **25%** of your grade will be determined by a midterm exam. 
+
+- **25%** of your grade will be determined by a final exam.
+
+- **25%** of your grade will be determined by a series of projects. The projects will be due roughly every 3 - 4 weeks during the course of the semester and may require oral presentations.
+
+
+### Collaboration
+University policy states that, unless otherwise specified, students may not collaborate on graded material. Any exceptions to this policy will be stated explicitly for individual assignments. If you have any questions about the limits of collaboration, you are expected to ask for clarification.
+
+In this class students are encouraged to collaborate on homework assignments, but exams and projects should be completed without collaboration.
+
+###  Academic Misconduct
+Section 420 of the Student Conduct Code describes academic misconduct as including but not limited to plagiarism, cheating, multiple submissions, or facilitating others’ misconduct. Possible sanctions for academic misconduct range from an oral reprimand to expulsion from the university.
+
+### Disabilities Policy
+
+Federal law mandates the provision of services at the university-level to qualified students with disabilities. If you have a documented disability for which you are or may be requesting an accommodation(s), you are encouraged to contact the Office of Disability Services as soon as possible.
+
+### COVID-19 Information
+
+Montana State University strongly recommends students, faculty and staff wear face masks in indoor public spaces, in accordance with the Centers for Disease Control recommendations. Montana State University encourages students, faculty and staff to take advantage of convenient, on-campus clinics for the COVID-19 vaccine.
+
+Schedule your appointment by going to: www.montana.edu/health/coronavirus.
+
+Please evaluate your own health status regularly and refrain from attending class and other on-campus events if you are ill. MSU students who miss class due to illness will be given opportunities to access course materials online. You are encouraged to seek appropriate medical attention for treatment of illness. In the event of contagious illness, please do not come to class or to campus to turn in work. Instead notify me by email about your absence as soon as practical, so that accommodations can be made. Please note that documentation (a Doctor’s note) for medical excuses is not required. MSU University Health Partners - as part their commitment to maintain patient confidentiality, to encourage more appropriate use of healthcare resources, and to support meaningful dialogue between instructors and students - does not provide such documentation.
+
+In the event that one or more students and/or the instructor are required to quarantine or if the university moves courses online, the course may need to continue in a virtual format. Communication about how the course will proceed will be available through D2L and Microsoft Teams.
 
