@@ -31,17 +31,7 @@ Course Schedule
 - Weekly HW (due Thursday September 9): HW2
 
 - Monday September 7: (__Labor Day, No Class__)
-<!---  
-### Week Three: More Regression
-
-- Weekly Notes: [PDF skeleton](https://github.com/STAT505/CH1/raw/master/CH1_notes2.pdf) ([Rmd Source Code](https://raw.githubusercontent.com/STAT505/CH1/master/CH1_notes2.Rmd))
-
-- Monday August 31:
-   - [HW2 Due 8 AM Tuesday](https://stat505.github.io/HW2/) ([Download Github Repo](https://classroom.github.com/a/4MufjEzB))
-
-- Wednesday September 2:
-
-- Friday September 4:
+[](### Week Three: More Regression - Weekly Notes: [PDF skeleton](https://github.com/STAT505/CH1/raw/master/CH1_notes2.pdf) ([Rmd Source Code](https://raw.githubusercontent.com/STAT505/CH1/master/CH1_notes2.Rmd)) - Monday August 31:- [HW2 Due 8 AM Tuesday](https://stat505.github.io/HW2/) ([Download Github Repo](https://classroom.github.com/a/4MufjEzB))- Wednesday September 2:- Friday September 4:)
 
 ### Week Four: Data and Data Visualization
 - Weekly Notes: 
@@ -225,7 +215,7 @@ Course Schedule
 ### Week Fifteen (finals week):  
 
 - [Take home Exam Due Wednesday at 11:59 PM](https://github.com/STAT505/final/blob/main/Final_F2020.pdf) ([RMD Source Code](https://raw.githubusercontent.com/STAT505/final/main/Final_F2020.Rmd)) ([Download Github Repo](https://classroom.github.com/a/SFYX2TUS))
---->
+)
 
 ---
 A [PDF of the syllabus](https://github.com/STAT505/Syllabus/raw/master/syllabus2021.pdf) is available.
