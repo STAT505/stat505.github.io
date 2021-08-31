@@ -33,7 +33,7 @@ Course Schedule
 - Weekly Notes: [PDF skeleton](https://github.com/STAT505/CH1/raw/master/CH1_notes2.pdf) ([Rmd Source Code](https://raw.githubusercontent.com/STAT505/CH1/master/CH1_notes2.Rmd))
 - Weekly Assignments (due Thursday September 9): 
    -  HW2
-   -  Project 1 Proposal
+   -  [Project 1 Proposal](https://stat505.github.io/project_one) ([Download GitHub Repo](https://classroom.github.com/a/guffSCPK))
 
 - Monday September 6: (__Labor Day, No Class__)
 - Wednesday September 8:
