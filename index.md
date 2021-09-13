@@ -63,8 +63,8 @@ Course Schedule
 ---
 
 ### Week Five
-- Weekly Reading:
-- Weekly Notes:
+- Weekly Reading: ROS Chapter 3
+- Weekly Notes: [CH3: PDF Skeleton](https://github.com/STAT505/CH3/blob/master/CH3.pdf) ([Rmd Source Code](https://raw.githubusercontent.com/STAT505/CH3/master/CH3.Rmd))
 - Weekly Assignments (due Thursday September 23): 
    - HW4
    - Project 1 Submission #1
