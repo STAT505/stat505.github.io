@@ -84,7 +84,7 @@ Course Schedule
 - Weekly Notes: [CH4 Part II: PDF Skeleton](https://github.com/STAT505/CH4/blob/master/CH4part2.pdf) ([Rmd Source Code](https://raw.githubusercontent.com/STAT505/CH4/master/CH4part2.Rmd))
 - Weekly Assignments (due Thursday September 30): 
    - [HW5](https://stat505.github.io/HW5/) ([Download HW5 Repo](https://classroom.github.com/a/Ef87olcd))
-   - Project 2 Proposal
+   - [Project 2 Proposal](https://stat505.github.io/Project2Proposal/) ([Download Project2 Proposal Repo](https://classroom.github.com/a/foDu89tF))
 
 - Monday September 27: 
 - Wednesday September 29:
