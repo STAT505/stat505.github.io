@@ -73,7 +73,7 @@ Course Schedule
 
 - Monday September 20: 
 - Wednesday September 22:
-- Friday September 24:
+- Friday September 24: [Monte Carlo Demo](https://stat505.github.io/MonteCarlo/) ([Rmd Source Code](https://raw.githubusercontent.com/STAT505/MonteCarlo/main/index.Rmd))
 
 [](### Week Five: Statistical Inference and NHST - Weekly Notes: - [PDF skeleton: Ch. 4 Part 1](https://github.com/STAT505/CH4/blob/master/CH4.pdf) ([Rmd Source Code](https://github.com/STAT505/CH4/blob/master/CH4.Rmd)) -[PDF skeleton: Ch. 4 Part 2](https://github.com/STAT505/CH4/blob/master/CH4part2.pdf) ([Rmd Source Code](https://github.com/STAT505/CH4/blob/master/CH4part2.Rmd)) - Weekly Reading: - ROS Chapter 4 - Monday September 14: - [HW4 Due 8 AM Tuesday](https://stat505.github.io/HW4/) ([Download Github Repo](https://classroom.github.com/a/NyZAkfeN)) - Wednesday September 16: __Synchronous Virtual Class on Teams__ - [Project 1 Due](https://stat505.github.io/Project1/) ([Download Github Repo](https://classroom.github.com/a/CL5Ba2lt)) - Friday September 18:)
 
@@ -83,7 +83,7 @@ Course Schedule
 - Weekly Reading: ROS Chapter 4
 - Weekly Notes: [CH4 Part II: PDF Skeleton](https://github.com/STAT505/CH4/blob/master/CH4part2.pdf) ([Rmd Source Code](https://raw.githubusercontent.com/STAT505/CH4/master/CH4part2.Rmd))
 - Weekly Assignments (due Thursday September 30): 
-   - HW5
+   - [HW5](https://stat505.github.io/HW5/) ([Download HW5 Repo](https://classroom.github.com/a/Ef87olcd))
    - Project 2 Proposal
 
 - Monday September 27: 
