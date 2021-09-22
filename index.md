@@ -80,8 +80,8 @@ Course Schedule
 ---
 
 ### Week Six
-- Weekly Reading:
-- Weekly Notes:
+- Weekly Reading: ROS Chapter 4
+- Weekly Notes: [CH4 Part II: PDF Skeleton](https://github.com/STAT505/CH4/blob/master/CH4part2.pdf) ([Rmd Source Code](https://raw.githubusercontent.com/STAT505/CH4/master/CH4part2.Rmd))
 - Weekly Assignments (due Thursday September 30): 
    - HW5
    - Project 2 Proposal
