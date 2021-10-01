@@ -98,7 +98,6 @@ Course Schedule
 - Weekly Reading:
 - Weekly Notes:
 - Weekly Assignments (due Thursday October 7): 
-   - HW6
    - Project 1 Submission 2
 
 - Monday October 4: 
@@ -113,7 +112,7 @@ Course Schedule
 - Weekly Reading:
 - Weekly Notes:
 - Weekly Assignments (due Thursday October 14): 
-   - HW7
+   - HW6
 
 - Monday October 11: 
 - Wednesday October 13:
@@ -127,7 +126,6 @@ Course Schedule
 - Weekly Reading:
 - Weekly Notes:
 - Weekly Assignments (due Thursday October 21): 
-   - HW8
    - Project 2, Submission 1 (Peer Review)
 
 
@@ -158,7 +156,6 @@ Course Schedule
 - Weekly Reading:
 - Weekly Notes:
 - Weekly Assignments (due Thursday November 4): 
-   - HW9
    - Project 2 Submission 2
 
 - Monday November 1: 
@@ -173,7 +170,6 @@ Course Schedule
 - Weekly Reading:
 - Weekly Notes:
 - Weekly Assignments (due Thursday November 11): 
-   - HW10
    - Project 3 Proposal
 
 - Monday November 8: 
@@ -188,7 +184,6 @@ Course Schedule
 - Weekly Reading:
 - Weekly Notes:
 - Weekly Assignments (due Thursday November 18): 
-   - HW11
 
 - Monday November 15: 
 - Wednesday November 17:
@@ -212,8 +207,6 @@ Course Schedule
 - Weekly Reading:
 - Weekly Notes:
 - Weekly Assignments (due December 2): 
-   - HW12
-   - Project 3 Due
 
 - Monday November 29: 
 - Wednesday December 1: 
