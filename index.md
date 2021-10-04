@@ -95,14 +95,14 @@ Course Schedule
 ---
 
 ### Week Seven
-- Weekly Reading:
-- Weekly Notes:
+- Weekly Reading: ROS Chapter 5
+- Weekly Notes: [Ch 5: PDF Skeleton](https://github.com/STAT505/CH5/blob/master/CH5.pdf) ([Rmd Source Code](https://raw.githubusercontent.com/STAT505/CH5/master/CH5.Rmd))
 - Weekly Assignments (due Thursday October 7): 
    - Project 1 Submission 2
 
 - Monday October 4: 
 - Wednesday October 6:
-- Friday October 8: __MT ASA Chapter Meeting__
+- Friday October 8: __MT ASA Chapter Meeting: No Class__
 
 [](### Week Seven: Regression (finally) - Weekly Notes: - [PDF skeleton: Ch. 6](https://github.com/STAT505/CH6/blob/master/CH6.pdf) ([Rmd Source Code](https://github.com/STAT505/CH6/blob/master/CH6.Rmd)) - [PDF skeleton: Ch. 7](https://github.com/STAT505/CH7/blob/master/CH7.pdf) ([Rmd Source Code](https://github.com/STAT505/CH6/blob/master/CH7.Rmd)) - Weekly Reading: - ROS Chapter 6 - ROS Chapter 7 - Monday September 28: __Synchronous Virtual Class on Teams__ - [HW5 Due 8 AM Tuesday](https://stat505.github.io/HW5/) ([Download Github Repo](https://classroom.github.com/a/_D011XLQ)) - Wednesday September 30: __Synchronous Virtual Class on Teams__ - Project 1 Final Version Due - Friday October 2:)
 
