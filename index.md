@@ -109,10 +109,10 @@ Course Schedule
 ---
 
 ### Week Eight
-- Weekly Reading:
-- Weekly Notes:
+- Weekly Reading: ROS Chapter 6
+- Weekly Notes: [Ch 6: PDF Skeleton](https://github.com/STAT505/CH6/blob/master/CH6.pdf) ([Rmd Source Code](https://raw.githubusercontent.com/STAT505/CH6/master/CH6.Rmd))
 - Weekly Assignments (due Thursday October 14): 
-   - HW6
+   - [HW6](https://stat505.github.io/HW6/) ([Download HW 6 Repo](https://classroom.github.com/a/zGIamDG8))
 
 - Monday October 11: 
 - Wednesday October 13:
@@ -126,7 +126,7 @@ Course Schedule
 - Weekly Reading:
 - Weekly Notes:
 - Weekly Assignments (due Thursday October 21): 
-   - Project 2, Submission 1 (Peer Review)
+   - Project 2, Submission 1 (Peer Review?) ([download Project2 Repo](https://classroom.github.com/a/mhoWRaW9))
 
 
 - Monday October 18: 
@@ -141,7 +141,6 @@ Course Schedule
 - Weekly Reading:
 - Weekly Notes:
 - Weekly Assignments (due Thursday October 28): 
-   - Exam 1
   
 - Monday October 25: 
 - Wednesday October 27:
