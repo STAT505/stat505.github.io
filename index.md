@@ -109,8 +109,10 @@ Course Schedule
 ---
 
 ### Week Eight
-- Weekly Reading: ROS Chapter 6
-- Weekly Notes: [Ch 6: PDF Skeleton](https://github.com/STAT505/CH6/blob/master/CH6.pdf) ([Rmd Source Code](https://raw.githubusercontent.com/STAT505/CH6/master/CH6.Rmd))
+- Weekly Reading: ROS Chapter 6 + ROS Chapter 7
+- Weekly Notes: 
+   - [Ch 6: PDF Skeleton](https://github.com/STAT505/CH6/blob/master/CH6.pdf) ([Rmd Source Code](https://raw.githubusercontent.com/STAT505/CH6/master/CH6.Rmd))
+   - [Ch 7: PDF Skeleton](https://github.com/STAT505/CH7/blob/master/CH7.pdf) ([Rmd Source Code](https://raw.githubusercontent.com/STAT505/CH7/master/CH7.Rmd))
 - Weekly Assignments (due Thursday October 14): 
    - [HW6](https://stat505.github.io/HW6/) ([Download HW 6 Repo](https://classroom.github.com/a/zGIamDG8))
 
@@ -123,8 +125,8 @@ Course Schedule
 ---
 
 ### Week Nine
-- Weekly Reading: ROS Chapter 7
-- Weekly Notes: [Ch 7: PDF Skeleton](https://github.com/STAT505/CH7/blob/master/CH7.pdf) ([Rmd Source Code](https://raw.githubusercontent.com/STAT505/CH7/master/CH7.Rmd))
+- Weekly Reading: ROS Chapter 8
+- Weekly Notes: [Ch 8: PDF Skeleton](https://github.com/STAT505/CH8/blob/master/CH8.pdf) ([Rmd Source Code](https://raw.githubusercontent.com/STAT505/CH8/master/CH8.Rmd))
 - Weekly Assignments (due Thursday October 21): 
    - Project 2, Submission 1 (Peer Review?) ([download Project2 Repo](https://classroom.github.com/a/mhoWRaW9))
 
