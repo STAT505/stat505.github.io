@@ -142,13 +142,13 @@ Course Schedule
 ---
 
 ### Week Ten
-- Weekly Reading: ROS Chapter 9 + ROS Chapter 10
+- Weekly Reading: ROS Chapter 9 
 - Weekly Notes:
    - [Ch 9: PDF Skeleton](https://github.com/STAT505/CH9/blob/master/CH9.pdf) ([Rmd Source Code](https://raw.githubusercontent.com/STAT505/CH9/master/CH9.Rmd))
-   - [Ch 10: PDF Skeleton](https://github.com/STAT505/CH10/blob/master/CH10.pdf) ([Rmd Source Code](https://raw.githubusercontent.com/STAT505/CH10/master/CH10.Rmd)) 
+  
 - Weekly Assignments (due Thursday October 28): 
-   - Peer Review for Project 2
-   - HW7   
+   - [Peer Review for Project 2](https://stat505.github.io/Project2-PeerReview/) ([Download Repo](https://classroom.github.com/a/Vt-t6Qd1))
+   
   
 - Monday October 25: 
 - Wednesday October 27:
@@ -160,8 +160,9 @@ Course Schedule
 ---
 
 ### Week Eleven
-- Weekly Reading:
+- Weekly Reading: ROS Chapter 10
 - Weekly Notes:
+    - [Ch 10: PDF Skeleton](https://github.com/STAT505/CH10/blob/master/CH10.pdf) ([Rmd Source Code](https://raw.githubusercontent.com/STAT505/CH10/master/CH10.Rmd))  
 - Weekly Assignments (due Thursday November 4): 
    - Project 2 Submission 2
 
@@ -177,7 +178,7 @@ Course Schedule
 - Weekly Reading:
 - Weekly Notes:
 - Weekly Assignments (due Thursday November 11): 
-   - Project 3 Proposal
+  
 
 - Monday November 8: 
 - Wednesday November 10:
