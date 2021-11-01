@@ -164,7 +164,7 @@ Course Schedule
 - Weekly Notes:
     - [Ch 10: PDF Skeleton](https://github.com/STAT505/CH10/blob/master/CH10.pdf) ([Rmd Source Code](https://raw.githubusercontent.com/STAT505/CH10/master/CH10.Rmd))  
 - Weekly Assignments (due Thursday November 4): 
-   - HW7
+   - [HW7](https://stat505.github.io/HW7/) ([Download HW7 Repo](https://classroom.github.com/a/uy2cWChS))
 
 - Monday November 1: 
 - Wednesday November 3:
