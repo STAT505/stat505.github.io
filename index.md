@@ -164,7 +164,7 @@ Course Schedule
 - Weekly Notes:
     - [Ch 10: PDF Skeleton](https://github.com/STAT505/CH10/blob/master/CH10.pdf) ([Rmd Source Code](https://raw.githubusercontent.com/STAT505/CH10/master/CH10.Rmd))  
 - Weekly Assignments (due Thursday November 4): 
-   - Project 2 Submission 2
+   - HW7
 
 - Monday November 1: 
 - Wednesday November 3:
@@ -178,7 +178,7 @@ Course Schedule
 - Weekly Reading:
 - Weekly Notes:
 - Weekly Assignments (due Thursday November 11): 
-  
+   - Project 2 Submission Due  
 
 - Monday November 8: 
 - Wednesday November 10:
@@ -192,7 +192,8 @@ Course Schedule
 - Weekly Reading:
 - Weekly Notes:
 - Weekly Assignments (due Thursday November 18): 
-
+   - Exam 1 
+   
 - Monday November 15: 
 - Wednesday November 17:
 - Friday November 19:
