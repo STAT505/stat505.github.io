@@ -163,6 +163,7 @@ Course Schedule
 - Weekly Reading: ROS Chapter 10
 - Weekly Notes:
     - [Ch 10: PDF Skeleton](https://github.com/STAT505/CH10/blob/master/CH10.pdf) ([Rmd Source Code](https://raw.githubusercontent.com/STAT505/CH10/master/CH10.Rmd))  
+    - [CH 11: Part 1, PDF Skeleton](https://github.com/STAT505/CH11/blob/main/CH11.pdf) ([RMD Source Code](https://github.com/STAT505/CH11/blob/main/CH11.Rmd))
 - Weekly Assignments (due Thursday November 4): 
    - [HW7](https://stat505.github.io/HW7/) ([Download HW7 Repo](https://classroom.github.com/a/uy2cWChS))
 
@@ -175,8 +176,9 @@ Course Schedule
 ---
 
 ### Week Twelve
-- Weekly Reading:
+- Weekly Reading: ROS Chapter 11
 - Weekly Notes:
+   - [CH 11: Part 2, PDF Skeleton](https://github.com/STAT505/CH11/blob/main/CH11_part2.pdf) ([RMD Source Code](https://github.com/STAT505/CH11/blob/main/CH11_part2.Rmd))
 - Weekly Assignments (due Thursday November 11): 
    - Project 2 Submission Due  
 
@@ -189,7 +191,7 @@ Course Schedule
 ---
 
 ### Week Thirteen
-- Weekly Reading:
+- Weekly Reading: ROS Chapter 12
 - Weekly Notes:
 - Weekly Assignments (due Thursday November 18): 
    - Exam 1 
@@ -213,7 +215,7 @@ Course Schedule
 ---
 
 ### Week Fifteen
-- Weekly Reading:
+- Weekly Reading: ROS Chapter 13
 - Weekly Notes:
 - Weekly Assignments (due December 2): 
 
@@ -226,7 +228,7 @@ Course Schedule
 ---
 
 ### Week Sixteen
-- Weekly Reading:
+- Weekly Reading: ROS Chapter 14
 - Weekly Notes:
 - Weekly Assignments: 
    - Project 3 Presentations in Clas
