@@ -193,6 +193,7 @@ Course Schedule
 ### Week Thirteen
 - Weekly Reading: ROS Chapter 12
 - Weekly Notes:
+   - [2020 Exam 1](https://github.com/STAT505/midterm/blob/main/Midterm_F2020.pdf)
 - Weekly Assignments (due Thursday November 18): 
    - Exam 1 
    
@@ -230,8 +231,9 @@ Course Schedule
 ### Week Sixteen
 - Weekly Reading: ROS Chapter 14
 - Weekly Notes:
+   - [2020 Final Exam](https://github.com/STAT505/final/blob/main/Final_F2020.pdf)  
 - Weekly Assignments: 
-   - Project 3 Presentations in Clas
+   - Final Exam
 
 - Monday December 6: 
 - Wednesday December 8: 
@@ -241,7 +243,7 @@ Course Schedule
 
 ### Week Seventeen
 
-- Monday December 13: __scheduled final 10 - 11:50 Final Exam__ 
+- Monday December 13: __scheduled final 10 - 11:50 Project 3 Presentations__ 
 
 ---
 A [PDF of the syllabus](https://github.com/STAT505/Syllabus/raw/master/syllabus2021.pdf) is available.
