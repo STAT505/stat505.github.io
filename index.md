@@ -195,7 +195,7 @@ Course Schedule
 - Weekly Notes:
    - [2020 Exam 1](https://github.com/STAT505/midterm/blob/main/Midterm_F2020.pdf)
 - Weekly Assignments : 
-   - Exam 1 Due 10 PM Friday November 19 
+   - [Exam 1](https://github.com/STAT505/midterm2021/blob/main/Midterm_F2021.pdf) Due 10 PM Friday November 19 ([Download Github Repo](https://classroom.github.com/a/PPrVstVm))
    
 - Monday November 15: 
 - Wednesday November 17:
