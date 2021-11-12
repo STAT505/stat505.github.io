@@ -179,8 +179,8 @@ Course Schedule
 - Weekly Reading: ROS Chapter 11
 - Weekly Notes:
    - [CH 11: Part 2, PDF Skeleton](https://github.com/STAT505/CH11/blob/main/CH11_part2.pdf) ([RMD Source Code](https://github.com/STAT505/CH11/blob/main/CH11_part2.Rmd))
-- Weekly Assignments (due Thursday November 11): 
-   - Project 2 Submission Due  
+- Weekly Assignments: 
+   - Project 2 Submission Due Saturday at 8 AM
 
 - Monday November 8: 
 - Wednesday November 10:
@@ -194,12 +194,12 @@ Course Schedule
 - Weekly Reading: ROS Chapter 12
 - Weekly Notes:
    - [2020 Exam 1](https://github.com/STAT505/midterm/blob/main/Midterm_F2020.pdf)
-- Weekly Assignments (due Thursday November 18): 
-   - Exam 1 
+- Weekly Assignments : 
+   - Exam 1 Due 10 PM Friday November 19 
    
 - Monday November 15: 
 - Wednesday November 17:
-- Friday November 19:
+- Friday November 19: __No Class, finish exam__
 
 [](### Week Thirteen: (Logistic Regression) - Weekly Notes: - [PDF Skeleton: Chapter 13](https://github.com/STAT505/CH13/blob/main/CH13.pdf) ([RMD Source Code](https://github.com/STAT505/CH13/blob/main/CH13.Rmd)) - Weekly Reading: __Synchronous Virtual Class on Teams__ - Chapter 13 - Monday November 9: - [HW 8 due 8 AM Tuesday](https://stat505.github.io/HW8/) ([Download GitHub Repo](https://classroom.github.com/a/sC1-buk4)) - Wednesday November 11: __No Class: Veteran's Day__ - Friday November 13:)
 
