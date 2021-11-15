@@ -194,6 +194,7 @@ Course Schedule
 - Weekly Reading: ROS Chapter 12
 - Weekly Notes:
    - [2020 Exam 1](https://github.com/STAT505/midterm/blob/main/Midterm_F2020.pdf)
+   - [CH 12 PDF Skeleton](https://github.com/STAT505/CH12/blob/main/CH12.pdf) ([RMD Source Code](https://github.com/STAT505/CH12/blob/main/CH12.Rmd))
 - Weekly Assignments : 
    - [Exam 1](https://github.com/STAT505/midterm2021/blob/main/Midterm_F2021.pdf) Due 10 PM Friday November 19 ([Download Github Repo](https://classroom.github.com/a/PPrVstVm))
    
