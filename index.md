@@ -219,6 +219,7 @@ Course Schedule
 ### Week Fifteen
 - Weekly Reading: ROS Chapter 13
 - Weekly Notes:
+   - [CH 13 PDF Skeleton](https://github.com/STAT505/CH13/blob/main/CH13.pdf) ([RMD Source Code](https://raw.githubusercontent.com/STAT505/CH13/main/CH13.Rmd))  
 - Weekly Assignments (due December 2): 
 
 - Monday November 29: 
@@ -234,7 +235,6 @@ Course Schedule
 - Weekly Notes:
    - [2020 Final Exam](https://github.com/STAT505/final/blob/main/Final_F2020.pdf)  
 - Weekly Assignments: 
-   - Final Exam
 
 - Monday December 6: 
 - Wednesday December 8: 
@@ -244,7 +244,7 @@ Course Schedule
 
 ### Week Seventeen
 
-- Monday December 13: __scheduled final 10 - 11:50 Project 3 Presentations__ 
+- Monday December 13: __scheduled final 10 - 11:50__ 
 
 ---
 A [PDF of the syllabus](https://github.com/STAT505/Syllabus/raw/master/syllabus2021.pdf) is available.
