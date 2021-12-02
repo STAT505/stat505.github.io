@@ -235,6 +235,7 @@ Course Schedule
 - Weekly Notes:
    - [2020 Final Exam](https://github.com/STAT505/final/blob/main/Final_F2020.pdf)  
 - Weekly Assignments: 
+   - [HW8](https://stat505.github.io/HW8/) ([Download GitHub Repo](https://classroom.github.com/a/escAxnzj))
 
 - Monday December 6: 
 - Wednesday December 8: 
