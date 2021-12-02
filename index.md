@@ -233,13 +233,14 @@ Course Schedule
 ### Week Sixteen
 - Weekly Reading: ROS Chapter 14
 - Weekly Notes:
+   - [CH 14 PDF Skeleton](https://github.com/STAT505/CH14/blob/main/CH14.pdf) ([RMD Source Code](https://raw.githubusercontent.com/STAT505/CH14/main/CH14.Rmd))  
    - [2020 Final Exam](https://github.com/STAT505/final/blob/main/Final_F2020.pdf)  
 - Weekly Assignments: 
    - [HW8](https://stat505.github.io/HW8/) ([Download GitHub Repo](https://classroom.github.com/a/escAxnzj))
 
 - Monday December 6: 
 - Wednesday December 8: 
-- Friday December 10: 
+- Friday December 10: Final Exam Q-and-A
 
 ---
 
