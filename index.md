@@ -235,7 +235,7 @@ Course Schedule
 - Weekly Notes:
    - [CH 14 PDF Skeleton](https://github.com/STAT505/CH14/blob/main/CH14.pdf) ([RMD Source Code](https://raw.githubusercontent.com/STAT505/CH14/main/CH14.Rmd))  
    - [2020 Final Exam](https://github.com/STAT505/final/blob/main/Final_F2020.pdf)  
-- Weekly Assignments: 
+- Weekly Assignments (due December 9): 
    - [HW8](https://stat505.github.io/HW8/) ([Download GitHub Repo](https://classroom.github.com/a/escAxnzj))
 
 - Monday December 6: 
@@ -246,7 +246,8 @@ Course Schedule
 
 ### Week Seventeen
 
-- Monday December 13: __scheduled final 10 - 11:50__ 
+- Monday December 13: __in class final exam 10 - 11:50__ 
+- Monday December 13: __take home final due (end of day)__ [Final Exam PDF](https://github.com/STAT505/FinalExam/blob/main/TakehomeFinal_F2021.pdf) ([Download GitHub Repo](https://classroom.github.com/a/7rf1_LE5))
 
 ---
 A [PDF of the syllabus](https://github.com/STAT505/Syllabus/raw/master/syllabus2021.pdf) is available.
