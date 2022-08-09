@@ -38,6 +38,11 @@ For additional resources see:
 - R for Data Science, [https://r4ds.had.co.nz](https://r4ds.had.co.nz)
 - Happy Git and GitHub for the useR,  [https://happygitwithr.com](https://happygitwithr.com)
 
+# Office Hourse
+
+- Tuesday: 10:45 - 12
+- Friday: 11:30 - 1
+
 # Course Policies
 
 
