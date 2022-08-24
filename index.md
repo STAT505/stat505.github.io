@@ -1,4 +1,4 @@
-A [PDF of the syllabus](https://github.com/STAT505/Syllabus/raw/master/syllabus2021.pdf) is available.
+A [PDF of the syllabus](https://github.com/STAT505/Syllabus/raw/master/syllabus2022.pdf) is available.
 
 # Course Description
 
@@ -40,7 +40,7 @@ For additional resources see:
 
 # Office Hours
 
-- Tuesday: 10:45 - 12
+- Tuesday: 10:30 - 12
 - Friday: 11:30 - 1
 
 # Course Policies
@@ -71,13 +71,10 @@ Federal law mandates the provision of services at the university-level to qualif
 
 ### COVID-19 Information
 
-Montana State University strongly recommends students, faculty and staff wear face masks in indoor public spaces, in accordance with the Centers for Disease Control recommendations. Montana State University encourages students, faculty and staff to take advantage of convenient, on-campus clinics for the COVID-19 vaccine.
-
-Schedule your appointment by going to: www.montana.edu/health/coronavirus.
+Face masks will be recommended, but not required, for students, faculty and staff in campus buildings at Montana State University. Face coverings can help slow the spread of the virus that causes COVID-19 via droplets from sneezes, coughs or even talking over distances up to 6 feet. Since people can carry and spread the virus without showing any symptoms of it — or with very mild symptoms — wearing a face covering can help protect those around you and the community at large. Montana State University strongly recommends students, faculty and staff wear face masks in indoor public spaces, in accordance with the Centers for Disease Control recommendations. Montana State University encourages students, faculty and staff to take advantage of convenient, on-campus clinics for the COVID-19 vaccine. Schedule your appointment by going to: www.montana.edu/health/coronavirus.
 
 Please evaluate your own health status regularly and refrain from attending class and other on-campus events if you are ill. MSU students who miss class due to illness will be given opportunities to access course materials online. You are encouraged to seek appropriate medical attention for treatment of illness. In the event of contagious illness, please do not come to class or to campus to turn in work. Instead notify me by email about your absence as soon as practical, so that accommodations can be made. Please note that documentation (a Doctor’s note) for medical excuses is not required. MSU University Health Partners - as part their commitment to maintain patient confidentiality, to encourage more appropriate use of healthcare resources, and to support meaningful dialogue between instructors and students - does not provide such documentation.
 
-In the event that one or more students and/or the instructor are required to quarantine or if the university moves courses online, the course may need to continue in a virtual format. Communication about how the course will proceed will be available through D2L and Microsoft Teams.
 
 
 Course Schedule
