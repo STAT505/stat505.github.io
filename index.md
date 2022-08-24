@@ -50,11 +50,11 @@ For additional resources see:
 
 - **30%** of your grade will be determined by weekly homework assignments. Students are allowed and encouraged to work with classmates on homework assignments, but each student is required to complete their own homework. 
 
-- **25%** of your grade will be determined by a midterm exam. 
+- **20%** of your grade will be determined by a midterm exam. 
 
-- **25%** of your grade will be determined by a final exam.
+- **20%** of your grade will be determined by a final exam.
 
-- **20%** of your grade will be determined by two projects. 
+- **30%** of your grade will be determined by two projects. 
 
 
 ### Collaboration
