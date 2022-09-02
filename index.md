@@ -31,8 +31,7 @@ Course Schedule
 
 - Weekly Notes: [CH1: 1.4 - 1.6 PDF skeleton](https://github.com/STAT505/CH1/raw/master/CH1_notes2.pdf) ([Rmd Source Code](https://raw.githubusercontent.com/STAT505/CH1/master/CH1_notes2.Rmd))
 - Weekly Assignments (due Friday September 9): 
-   -  [HW2](https://stat505.github.io/HW_two/) 
-   -  [Project 1 Proposal](https://stat505.github.io/project_one) ([Download GitHub Repo](https://classroom.github.com/a/guffSCPK))
+   -  [HW2](https://github.com/STAT505/Homework2) ([Download GitHub Repo](https://classroom.github.com/a/U1GCc_Ps))
 
 - Monday September 5: (__Labor Day, No Class__)
 - Wednesday September 7: 
@@ -46,7 +45,7 @@ Course Schedule
 - Weekly Reading: ROS Chapter 2
 - Weekly Notes:[CH2: PDF Skeleton](https://github.com/STAT505/CH2/blob/master/CH2.pdf) ([Rmd Source Code](https://raw.githubusercontent.com/STAT505/CH2/master/CH2.Rmd))
 - Weekly Assignments (due Friday September 16): 
-   - [HW3](https://stat505.github.io/HW_three/) 
+   - [HW3]
 
 - Monday September 12: 
 - Wednesday September 14:
@@ -63,7 +62,7 @@ Course Schedule
    - [CH3: PDF Skeleton](https://github.com/STAT505/CH3/blob/master/CH3.pdf) ([Rmd Source Code](https://raw.githubusercontent.com/STAT505/CH3/master/CH3.Rmd))
    - [CH4, Part 1: PDF Skeleton](https://github.com/STAT505/CH4/blob/master/CH4.pdf) ([Rmd Source Code](https://raw.githubusercontent.com/STAT505/CH4/master/CH4.Rmd))
 - Weekly Assignments (due Friday September 23): 
-   - [HW4](https://stat505.github.io/HW4/) 
+   - [HW4]
    - Project 1 Submission #1
 
 - Monday September 19: 
@@ -78,8 +77,8 @@ Course Schedule
 - Weekly Reading: ROS Chapter 4
 - Weekly Notes: [CH4 Part II: PDF Skeleton](https://github.com/STAT505/CH4/blob/master/CH4part2.pdf) ([Rmd Source Code](https://raw.githubusercontent.com/STAT505/CH4/master/CH4part2.Rmd))
 - Weekly Assignments (due Friday September 30): 
-   - [HW5](https://stat505.github.io/HW5/) 
-   - [Project 2 Proposal](https://stat505.github.io/Project2Proposal/) ([Download Project2 Proposal Repo](https://classroom.github.com/a/foDu89tF))
+   - [HW5] 
+
 
 - Monday September 26: 
 - Wednesday September 28:
