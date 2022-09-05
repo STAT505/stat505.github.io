@@ -23,7 +23,7 @@ Course Schedule
 
 - Monday August 29: 
 - Wednesday August 31: 
-- Friday September 2:
+- Friday September 2: [Recorded Lecture](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b02703db-6c8c-4785-b210-af0401779954)
 
 ---
 
