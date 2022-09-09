@@ -45,7 +45,7 @@ Course Schedule
 - Weekly Reading: ROS Chapter 2
 - Weekly Notes:[CH2: PDF Skeleton](https://github.com/STAT505/CH2/blob/master/CH2.pdf) ([Rmd Source Code](https://raw.githubusercontent.com/STAT505/CH2/master/CH2.Rmd))
 - Weekly Assignments (due Friday September 16): 
-   - [HW3]
+   - [HW3](https://github.com/STAT505/HW_three/blob/main/README.md) ([Download Github Repo](https://classroom.github.com/a/qj2bJrFL))
 
 - Monday September 12: 
 - Wednesday September 14:
@@ -63,7 +63,6 @@ Course Schedule
    - [CH4, Part 1: PDF Skeleton](https://github.com/STAT505/CH4/blob/master/CH4.pdf) ([Rmd Source Code](https://raw.githubusercontent.com/STAT505/CH4/master/CH4.Rmd))
 - Weekly Assignments (due Friday September 23): 
    - [HW4]
-   - Project 1 Submission #1
 
 - Monday September 19: 
 - Wednesday September 21:
