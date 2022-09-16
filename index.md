@@ -62,7 +62,7 @@ Course Schedule
    - [CH3: PDF Skeleton](https://github.com/STAT505/CH3/blob/master/CH3.pdf) ([Rmd Source Code](https://raw.githubusercontent.com/STAT505/CH3/master/CH3.Rmd))
    - [CH4, Part 1: PDF Skeleton](https://github.com/STAT505/CH4/blob/master/CH4.pdf) ([Rmd Source Code](https://raw.githubusercontent.com/STAT505/CH4/master/CH4.Rmd))
 - Weekly Assignments (due Friday September 23): 
-   - [HW4]
+   - [HW4](https://github.com/andyhoegh/hw_4/blob/main/README.md) ([Download Github Repo](https://classroom.github.com/a/gdjgQfoy))
 
 - Monday September 19: 
 - Wednesday September 21:
