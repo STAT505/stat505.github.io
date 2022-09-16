@@ -49,7 +49,7 @@ Course Schedule
 
 - Monday September 12: [video recording](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=affd1a11-0150-4abd-bebd-af0e015399ba)
 - Wednesday September 14: [video recording](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ba9bf0ab-5b26-4fa5-a4e1-af1200fa412b)
-- Friday September 16:
+- Friday September 16: [video recording](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=03b3fa36-71cf-48af-8f86-af12016e265d)
 
 
 [](### Week Four: Data and Data Visualization - Weekly Notes: - [PDF skeleton: Ch. 2](https://github.com/STAT505/CH2/blob/master/CH2.pdf) ([Rmd Source Code](https://github.com/STAT505/CH2/blob/master/CH2.Rmd))- [PDF skeleton: Ch. 3](https://github.com/STAT505/CH3/blob/master/CH3.pdf) ([Rmd Source Code](https://github.com/STAT505/CH3/blob/master/CH3.Rmd)) - Weekly Reading: - ROS Chapter 2 + Chapter 3   - [ggplot website + cheatsheet](https://ggplot2.tidyverse.org) - Monday September 7: __Labor Day: No Class__ - Wednesday September 9: __Synchronous Virtual Class on Teams__ - [HW3 Due 8 AM Wednesday](https://stat505.github.io/HW3/) ([Download Github Repo](https://classroom.github.com/a/no3JhetU)) - Friday September 11:)
