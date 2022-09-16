@@ -48,7 +48,7 @@ Course Schedule
    - [HW3](https://github.com/STAT505/HW_three/blob/main/README.md) ([Download Github Repo](https://classroom.github.com/a/qj2bJrFL))
 
 - Monday September 12: [video recording](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=affd1a11-0150-4abd-bebd-af0e015399ba)
-- Wednesday September 14:
+- Wednesday September 14: [video recording](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ba9bf0ab-5b26-4fa5-a4e1-af1200fa412b)
 - Friday September 16:
 
 
