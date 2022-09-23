@@ -66,7 +66,7 @@ Course Schedule
 
 - Monday September 19: 
 - Wednesday September 21: [video recording](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=91f5f0d8-5b18-4fae-8b6c-af18014eedcd)
-- Friday September 23: [Monte Carlo Demo](https://stat505.github.io/MonteCarlo/) ([Rmd Source Code](https://raw.githubusercontent.com/STAT505/MonteCarlo/main/index.Rmd))
+- Friday September 23: [Monte Carlo Demo](https://stat505.github.io/MonteCarlo/) ([Rmd Source Code](https://raw.githubusercontent.com/STAT505/MonteCarlo/main/index.Rmd)) [video recording](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a785fab1-f388-4bf1-b92e-af190156f1c0)
 
 [](### Week Five: Statistical Inference and NHST - Weekly Notes: - [PDF skeleton: Ch. 4 Part 1](https://github.com/STAT505/CH4/blob/master/CH4.pdf) ([Rmd Source Code](https://github.com/STAT505/CH4/blob/master/CH4.Rmd)) -[PDF skeleton: Ch. 4 Part 2](https://github.com/STAT505/CH4/blob/master/CH4part2.pdf) ([Rmd Source Code](https://github.com/STAT505/CH4/blob/master/CH4part2.Rmd)) - Weekly Reading: - ROS Chapter 4 - Monday September 14: - [HW4 Due 8 AM Tuesday](https://stat505.github.io/HW4/) ([Download Github Repo](https://classroom.github.com/a/NyZAkfeN)) - Wednesday September 16: __Synchronous Virtual Class on Teams__ - [Project 1 Due](https://stat505.github.io/Project1/) ([Download Github Repo](https://classroom.github.com/a/CL5Ba2lt)) - Friday September 18:)
 
