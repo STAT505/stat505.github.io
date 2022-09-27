@@ -77,6 +77,7 @@ Course Schedule
 - Weekly Notes:  
    - [Ch 5: PDF Skeleton](https://github.com/STAT505/CH5/blob/master/CH5.pdf) ([Rmd Source Code](https://raw.githubusercontent.com/STAT505/CH5/master/CH5.Rmd))
    - [Ch 6: PDF Skeleton](https://github.com/STAT505/CH6/blob/master/CH6.pdf) ([Rmd Source Code](https://raw.githubusercontent.com/STAT505/CH6/master/CH6.Rmd))
+   - [Ch 7: PDF Skeleton](https://github.com/STAT505/CH7/blob/master/CH7.pdf) ([Rmd Source Code](https://raw.githubusercontent.com/STAT505/CH7/master/CH7.Rmd))
    - [CH4 Part II: PDF Skeleton: Postponed](https://github.com/STAT505/CH4/blob/master/CH4part2.pdf) ([Rmd Source Code](https://raw.githubusercontent.com/STAT505/CH4/master/CH4part2.Rmd))
 - Weekly Assignments (due Friday September 30): 
    - [HW5](https://github.com/STAT505/HW_5) ([Download Github Repo](https://classroom.github.com/a/m5Tehvug))
@@ -109,7 +110,7 @@ Course Schedule
 - Weekly Reading: ROS Chapter 6 + ROS Chapter 7
 - Weekly Notes: 
    
-   - [Ch 7: PDF Skeleton](https://github.com/STAT505/CH7/blob/master/CH7.pdf) ([Rmd Source Code](https://raw.githubusercontent.com/STAT505/CH7/master/CH7.Rmd))
+ 
 - Weekly Assignments (due Thursday October 14): 
    - [HW6](https://stat505.github.io/HW6/)
 
