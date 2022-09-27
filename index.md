@@ -81,7 +81,7 @@ Course Schedule
    - [HW5](https://github.com/STAT505/HW_5) ([Download Github Repo](https://classroom.github.com/a/m5Tehvug))
 
 
-- Monday September 26: 
+- Monday September 26: [video recording: part 1](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=068da507-3b40-40d4-a1d5-af1d011e5d5d), [video recording: part 2](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0bc344d5-aeb7-411e-8fe7-af1d011db351), [video recording: part 3](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d901cf0e-0642-4548-938c-af1d011e075b)
 - Wednesday September 28:
 - Friday September 30:
 
