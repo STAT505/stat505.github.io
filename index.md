@@ -73,7 +73,7 @@ Course Schedule
 ---
 
 ### Week Six
-- Weekly Reading: ROS Chapter 4
+- Weekly Reading: ROS Chapter 4 / ROS Chapter 5
 - Weekly Notes:  
    - [Ch 5: PDF Skeleton](https://github.com/STAT505/CH5/blob/master/CH5.pdf) ([Rmd Source Code](https://raw.githubusercontent.com/STAT505/CH5/master/CH5.Rmd))
    - [Ch 6: PDF Skeleton](https://github.com/STAT505/CH6/blob/master/CH6.pdf) ([Rmd Source Code](https://raw.githubusercontent.com/STAT505/CH6/master/CH6.Rmd))
@@ -92,11 +92,11 @@ Course Schedule
 ---
 
 ### Week Seven
-- Weekly Reading: ROS Chapter 5
+- Weekly Reading: ROS Chapter 6 + ROS Chapter 7
 - Weekly Notes: 
    
 - Weekly Assignments (due Thursday October 7):  
-
+  - [HW6](https://github.com/STAT505/HW6) ([Download Github Repo](https://classroom.github.com/a/UizPp9Uu))
 
 - Monday October 3: 
 - Wednesday October 5:
@@ -107,12 +107,11 @@ Course Schedule
 ---
 
 ### Week Eight
-- Weekly Reading: ROS Chapter 6 + ROS Chapter 7
+- Weekly Reading: 
 - Weekly Notes: 
    
  
 - Weekly Assignments (due Thursday October 14): 
-   - [HW6](https://stat505.github.io/HW6/)
 
 - Monday October 10: 
 - Wednesday October 12:
@@ -128,7 +127,6 @@ Course Schedule
    - [Ch 8: PDF Skeleton](https://github.com/STAT505/CH8/blob/master/CH8.pdf) ([Rmd Source Code](https://raw.githubusercontent.com/STAT505/CH8/master/CH8.Rmd))
    
 - Weekly Assignments (due Thursday October 21): 
-   - Project 2, Submission 1 (for Peer Review) ([download Project2 Repo](https://classroom.github.com/a/mhoWRaW9))
 
 
 - Monday October 17: 
@@ -145,7 +143,6 @@ Course Schedule
    - [Ch 9: PDF Skeleton](https://github.com/STAT505/CH9/blob/master/CH9.pdf) ([Rmd Source Code](https://raw.githubusercontent.com/STAT505/CH9/master/CH9.Rmd))
   
 - Weekly Assignments (due Friday October 28): 
-   - [Peer Review for Project 2](https://stat505.github.io/Project2-PeerReview/) ([Download Repo](https://classroom.github.com/a/Vt-t6Qd1))
    
   
 - Monday October 24: 
@@ -163,8 +160,6 @@ Course Schedule
     - [Ch 10: PDF Skeleton](https://github.com/STAT505/CH10/blob/master/CH10.pdf) ([Rmd Source Code](https://raw.githubusercontent.com/STAT505/CH10/master/CH10.Rmd))  
     - [CH 11: Part 1, PDF Skeleton](https://github.com/STAT505/CH11/blob/main/CH11.pdf) ([RMD Source Code](https://github.com/STAT505/CH11/blob/main/CH11.Rmd))
 - Weekly Assignments (due Friday November 4): 
-   - [HW7](https://stat505.github.io/HW7/)
-   - Project 2 Submission Due Saturday at 8 AM
 
 - Monday October 31: 
 - Wednesday November 2:
@@ -194,8 +189,7 @@ Course Schedule
    - [2020 Exam 1](https://github.com/STAT505/midterm/blob/main/Midterm_F2020.pdf)
    - [CH 12 PDF Skeleton](https://github.com/STAT505/CH12/blob/main/CH12.pdf) ([RMD Source Code](https://github.com/STAT505/CH12/blob/main/CH12.Rmd))
 - Weekly Assignments : 
-   - [Exam 1](https://github.com/STAT505/midterm2021/blob/main/Midterm_F2021.pdf) Due 10 PM Friday November 19 ([Download Github Repo](https://classroom.github.com/a/PPrVstVm))
-   
+
 - Monday November 14: 
 - Wednesday November 16:
 - Friday November 18: 
