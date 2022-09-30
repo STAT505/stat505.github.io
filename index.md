@@ -94,13 +94,14 @@ Course Schedule
 ### Week Seven
 - Weekly Reading: ROS Chapter 6 + ROS Chapter 7
 - Weekly Notes: 
+   - [Ch 8: PDF Skeleton](https://github.com/STAT505/CH8/blob/master/CH8.pdf) ([Rmd Source Code](https://raw.githubusercontent.com/STAT505/CH8/master/CH8.Rmd))
    
 - Weekly Assignments (due Thursday October 7):  
   - [HW6](https://github.com/STAT505/HW6) ([Download Github Repo](https://classroom.github.com/a/UizPp9Uu))
 
 - Monday October 3: 
 - Wednesday October 5:
-- Friday October 7:
+- Friday October 7: __NO CLASS: Video Lecture will be provided__
 
 [](### Week Seven: Regression (finally) - Weekly Notes: - [PDF skeleton: Ch. 6](https://github.com/STAT505/CH6/blob/master/CH6.pdf) ([Rmd Source Code](https://github.com/STAT505/CH6/blob/master/CH6.Rmd)) - [PDF skeleton: Ch. 7](https://github.com/STAT505/CH7/blob/master/CH7.pdf) ([Rmd Source Code](https://github.com/STAT505/CH6/blob/master/CH7.Rmd)) - Weekly Reading: - ROS Chapter 6 - ROS Chapter 7 - Monday September 28: __Synchronous Virtual Class on Teams__ - [HW5 Due 8 AM Tuesday](https://stat505.github.io/HW5/) ([Download Github Repo](https://classroom.github.com/a/_D011XLQ)) - Wednesday September 30: __Synchronous Virtual Class on Teams__ - Project 1 Final Version Due - Friday October 2:)
 
@@ -124,7 +125,7 @@ Course Schedule
 ### Week Nine
 - Weekly Reading: ROS Chapter 8 
 - Weekly Notes: 
-   - [Ch 8: PDF Skeleton](https://github.com/STAT505/CH8/blob/master/CH8.pdf) ([Rmd Source Code](https://raw.githubusercontent.com/STAT505/CH8/master/CH8.Rmd))
+  
    
 - Weekly Assignments (due Thursday October 21): 
 
