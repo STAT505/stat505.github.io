@@ -84,7 +84,7 @@ Course Schedule
 
 
 - Monday September 26: [video recording: part 1](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=068da507-3b40-40d4-a1d5-af1d011e5d5d), [video recording: part 2](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0bc344d5-aeb7-411e-8fe7-af1d011db351), [video recording: part 3](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d901cf0e-0642-4548-938c-af1d011e075b)
-- Wednesday September 28:
+- Wednesday September 28: [video recording](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d7c4e759-42ec-483e-a53b-af1e01568c36)
 - Friday September 30:
 
 [](### Week Six: More Inference + Simulation - Weekly Notes: - [PDF skeleton: Ch. 5](https://github.com/STAT505/CH5/blob/master/CH5.pdf) ([Rmd Source Code](https://github.com/STAT505/CH5/blob/master/CH5.Rmd)) - Weekly Reading: - ROS Chapter 5 - Monday September 21: - [HW5 Due ~~8 AM Tuesday~~ Next Week](https://stat505.github.io/HW5/) ([Download Github Repo](https://classroom.github.com/a/_D011XLQ)) - Wednesday September 23: __Synchronous Virtual Class on Teams__ - Friday September 25:)
