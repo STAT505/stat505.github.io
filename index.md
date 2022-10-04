@@ -101,7 +101,7 @@ Course Schedule
 
 - Monday October 3: [video recording](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cedcfeb7-47ab-4608-9cdc-af2400fb6d72)
 - Wednesday October 5:
-- Friday October 7: __NO CLASS: Video Lecture will be provided__
+- Friday October 7: __NO CLASS: [Video recording](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1c0ab626-58ce-4caa-b3c2-af24010a5752)__
 
 [](### Week Seven: Regression (finally) - Weekly Notes: - [PDF skeleton: Ch. 6](https://github.com/STAT505/CH6/blob/master/CH6.pdf) ([Rmd Source Code](https://github.com/STAT505/CH6/blob/master/CH6.Rmd)) - [PDF skeleton: Ch. 7](https://github.com/STAT505/CH7/blob/master/CH7.pdf) ([Rmd Source Code](https://github.com/STAT505/CH6/blob/master/CH7.Rmd)) - Weekly Reading: - ROS Chapter 6 - ROS Chapter 7 - Monday September 28: __Synchronous Virtual Class on Teams__ - [HW5 Due 8 AM Tuesday](https://stat505.github.io/HW5/) ([Download Github Repo](https://classroom.github.com/a/_D011XLQ)) - Wednesday September 30: __Synchronous Virtual Class on Teams__ - Project 1 Final Version Due - Friday October 2:)
 
