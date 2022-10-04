@@ -99,7 +99,7 @@ Course Schedule
 - Weekly Assignments (due Thursday October 7):  
   - [HW6](https://github.com/STAT505/HW6) ([Download Github Repo](https://classroom.github.com/a/UizPp9Uu))
 
-- Monday October 3: 
+- Monday October 3: [video recording](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cedcfeb7-47ab-4608-9cdc-af2400fb6d72)
 - Wednesday October 5:
 - Friday October 7: __NO CLASS: Video Lecture will be provided__
 
