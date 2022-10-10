@@ -114,6 +114,7 @@ Course Schedule
    - [CH 11: Part 1, PDF Skeleton](https://github.com/STAT505/CH11/blob/main/CH11.pdf) ([RMD Source Code](https://github.com/STAT505/CH11/blob/main/CH11.Rmd))
  
 - Weekly Assignments (due Friday October 14): 
+   - [HW7](https://github.com/STAT505/HW_7/blob/main/HW7.md) ([Download Github Repo](https://classroom.github.com/a/04DZ5gAJ))  
 
 - Monday October 10: 
 - Wednesday October 12:
