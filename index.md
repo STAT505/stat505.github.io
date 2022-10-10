@@ -117,8 +117,8 @@ Course Schedule
    - [HW7](https://github.com/STAT505/HW_7/blob/main/HW7.md) ([Download Github Repo](https://classroom.github.com/a/04DZ5gAJ))  
 
 - Monday October 10: 
-- Wednesday October 12:
-- Friday October 14: __Lab: focused on checking model assumptions__
+- Wednesday October 12: __Lab: focused on checking model assumptions__
+- Friday October 14: 
 
 [](### Week Eight: Prediction and Bayesian Inference - Weekly Notes: - [PDF Skeleton: Ch. 9](https://github.com/STAT505/CH9/blob/main/CH9.pdf) ([Rmd Source Code](https://github.com/STAT505/CH9/blob/main/CH9.Rmd)) - Weekly Reading: - ROS Chapter 9 - Virtual Coding Lab: - [Prediction with `stan_glm()`](https://github.com/STAT505/CH9/blob/main/Coding_Exercise.pdf) ([RMD Source Code](https://github.com/STAT505/CH9/blob/main/Coding_Exercise.Rmd)) ([Video Guide](https://montana.techsmithrelay.com/xDce)) - Monday October 5: - [HW6 Due 8 AM Tuesday](https://stat505.github.io/HW6/) ([Download GitHub Repo](https://classroom.github.com/a/S7XWjsGS)) - Wednesday October 7: __Synchronous Virtual Class on Teams__ - Friday October 9: __Synchronous Virtual Class on Teams__)
 
