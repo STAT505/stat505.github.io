@@ -96,11 +96,11 @@ Course Schedule
    - [Ch 7: PDF Skeleton](https://github.com/STAT505/CH7/blob/master/CH7.pdf) ([Rmd Source Code](https://raw.githubusercontent.com/STAT505/CH7/master/CH7.Rmd))
    - [Ch 8: PDF Skeleton](https://github.com/STAT505/CH8/blob/master/CH8.pdf) ([Rmd Source Code](https://raw.githubusercontent.com/STAT505/CH8/master/CH8.Rmd))
    
-- Weekly Assignments (due Thursday October 7):  
+- Weekly Assignments (due Friday October 7):  
   - [HW6](https://github.com/STAT505/HW6) ([Download Github Repo](https://classroom.github.com/a/UizPp9Uu))
 
 - Monday October 3: [video recording](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cedcfeb7-47ab-4608-9cdc-af2400fb6d72)
-- Wednesday October 5:
+- Wednesday October 5: [video 1](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0f6e14e5-f0c1-49c8-b8cb-af26011c3b1d), [video 2](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=640bbbaf-655f-46fa-a080-af26011cb4b0)
 - Friday October 7: __NO CLASS: [Video recording](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1c0ab626-58ce-4caa-b3c2-af24010a5752)__
 
 [](### Week Seven: Regression (finally) - Weekly Notes: - [PDF skeleton: Ch. 6](https://github.com/STAT505/CH6/blob/master/CH6.pdf) ([Rmd Source Code](https://github.com/STAT505/CH6/blob/master/CH6.Rmd)) - [PDF skeleton: Ch. 7](https://github.com/STAT505/CH7/blob/master/CH7.pdf) ([Rmd Source Code](https://github.com/STAT505/CH6/blob/master/CH7.Rmd)) - Weekly Reading: - ROS Chapter 6 - ROS Chapter 7 - Monday September 28: __Synchronous Virtual Class on Teams__ - [HW5 Due 8 AM Tuesday](https://stat505.github.io/HW5/) ([Download Github Repo](https://classroom.github.com/a/_D011XLQ)) - Wednesday September 30: __Synchronous Virtual Class on Teams__ - Project 1 Final Version Due - Friday October 2:)
@@ -112,7 +112,7 @@ Course Schedule
 - Weekly Notes: 
    
  
-- Weekly Assignments (due Thursday October 14): 
+- Weekly Assignments (due Friday October 14): 
 
 - Monday October 10: 
 - Wednesday October 12:
