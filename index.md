@@ -129,7 +129,6 @@ Course Schedule
 - Weekly Notes: 
   
    
-- Weekly Assignments (due Thursday October 21): 
 
 
 - Monday October 17: 
@@ -145,7 +144,7 @@ Course Schedule
 - Weekly Notes:
    - [Ch 9: PDF Skeleton](https://github.com/STAT505/CH9/blob/master/CH9.pdf) ([Rmd Source Code](https://raw.githubusercontent.com/STAT505/CH9/master/CH9.Rmd))
   
-- Weekly Assignments (due Friday October 28): 
+- Weekly Assignments (due Friday October 28): Project 1 due
    
   
 - Monday October 24: 
