@@ -113,7 +113,7 @@ Course Schedule
    - [Ch 8: PDF Skeleton](https://github.com/STAT505/CH8/blob/master/CH8.pdf) ([Rmd Source Code](https://raw.githubusercontent.com/STAT505/CH8/master/CH8.Rmd))
    - [CH 11: Part 1, PDF Skeleton](https://github.com/STAT505/CH11/blob/main/CH11.pdf) ([RMD Source Code](https://github.com/STAT505/CH11/blob/main/CH11.Rmd))
  
-- Weekly Assignments (due Monday October 17): 
+- Weekly Assignments (due Wednesday October 19): 
    - [HW7](https://github.com/STAT505/HW_7/blob/main/HW7.md) ([Download Github Repo](https://classroom.github.com/a/04DZ5gAJ))  
 
 - Monday October 10: [video recording](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=47e9636d-4af2-481a-b210-af2a014fc98e)
