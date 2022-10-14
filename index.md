@@ -113,11 +113,11 @@ Course Schedule
    - [Ch 8: PDF Skeleton](https://github.com/STAT505/CH8/blob/master/CH8.pdf) ([Rmd Source Code](https://raw.githubusercontent.com/STAT505/CH8/master/CH8.Rmd))
    - [CH 11: Part 1, PDF Skeleton](https://github.com/STAT505/CH11/blob/main/CH11.pdf) ([RMD Source Code](https://github.com/STAT505/CH11/blob/main/CH11.Rmd))
  
-- Weekly Assignments (due Friday October 14): 
+- Weekly Assignments (due Monday October 17): 
    - [HW7](https://github.com/STAT505/HW_7/blob/main/HW7.md) ([Download Github Repo](https://classroom.github.com/a/04DZ5gAJ))  
 
 - Monday October 10: [video recording](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=47e9636d-4af2-481a-b210-af2a014fc98e)
-- Wednesday October 12: [Lab: focused on checking model assumptions](https://github.com/STAT505/AssumptionLab/blob/main/Lab_Assumption.md) ([RMD Source Code](https://raw.githubusercontent.com/STAT505/AssumptionLab/main/Lab_Assumption.Rmd))
+- Wednesday October 12: [Lab: focused on checking model assumptions](https://github.com/STAT505/AssumptionLab/blob/main/Lab_Assumption.md) ([RMD Source Code](https://raw.githubusercontent.com/STAT505/AssumptionLab/main/Lab_Assumption.Rmd)) [video recording](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=99adc68c-a215-46f4-8ca6-af2e00fbe269)
 - Friday October 14: 
 
 [](### Week Eight: Prediction and Bayesian Inference - Weekly Notes: - [PDF Skeleton: Ch. 9](https://github.com/STAT505/CH9/blob/main/CH9.pdf) ([Rmd Source Code](https://github.com/STAT505/CH9/blob/main/CH9.Rmd)) - Weekly Reading: - ROS Chapter 9 - Virtual Coding Lab: - [Prediction with `stan_glm()`](https://github.com/STAT505/CH9/blob/main/Coding_Exercise.pdf) ([RMD Source Code](https://github.com/STAT505/CH9/blob/main/Coding_Exercise.Rmd)) ([Video Guide](https://montana.techsmithrelay.com/xDce)) - Monday October 5: - [HW6 Due 8 AM Tuesday](https://stat505.github.io/HW6/) ([Download GitHub Repo](https://classroom.github.com/a/S7XWjsGS)) - Wednesday October 7: __Synchronous Virtual Class on Teams__ - Friday October 9: __Synchronous Virtual Class on Teams__)
