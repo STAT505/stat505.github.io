@@ -110,7 +110,6 @@ Course Schedule
 ### Week Eight
 - Weekly Reading: ROS Chapter 8 & ROS Chapter 11
 - Weekly Notes: 
-   - [Ch 8: PDF Skeleton](https://github.com/STAT505/CH8/blob/master/CH8.pdf) ([Rmd Source Code](https://raw.githubusercontent.com/STAT505/CH8/master/CH8.Rmd))
    - [CH 11: Part 1, PDF Skeleton](https://github.com/STAT505/CH11/blob/main/CH11.pdf) ([RMD Source Code](https://github.com/STAT505/CH11/blob/main/CH11.Rmd))
  
 - Weekly Assignments (due Wednesday October 19): 
@@ -127,8 +126,8 @@ Course Schedule
 ### Week Nine
 - Weekly Reading: ROS Chapter 8 
 - Weekly Notes: 
-  
-   
+   - [Ch 8: PDF Skeleton](https://github.com/STAT505/CH8/blob/master/CH8.pdf) ([Rmd Source Code](https://raw.githubusercontent.com/STAT505/CH8/master/CH8.Rmd))  
+   - [Ch 9: PDF Skeleton](https://github.com/STAT505/CH9/blob/master/CH9.pdf) ([Rmd Source Code](https://raw.githubusercontent.com/STAT505/CH9/master/CH9.Rmd))
 
 
 - Monday October 17: 
@@ -142,7 +141,9 @@ Course Schedule
 ### Week Ten
 - Weekly Reading: ROS Chapter 9 
 - Weekly Notes:
-   - [Ch 9: PDF Skeleton](https://github.com/STAT505/CH9/blob/master/CH9.pdf) ([Rmd Source Code](https://raw.githubusercontent.com/STAT505/CH9/master/CH9.Rmd))
+   - [Ch 10: PDF Skeleton](https://github.com/STAT505/CH10/blob/master/CH10.pdf) ([Rmd Source Code](https://raw.githubusercontent.com/STAT505/CH10/master/CH10.Rmd))
+   - [CH 11: Part 2, PDF Skeleton](https://github.com/STAT505/CH11/blob/main/CH11_part2.pdf) ([RMD Source Code](https://github.com/STAT505/CH11/blob/main/CH11_part2.Rmd)) 
+   
   
 - Weekly Assignments (due Friday October 28): [Project 1](https://github.com/STAT505/Project_1/blob/main/Project1_Rubric.pdf) ([Download GitHub Repo](https://classroom.github.com/a/rE5BF-ZD))
    
@@ -159,7 +160,7 @@ Course Schedule
 ### Week Eleven
 - Weekly Reading: ROS Chapter 10
 - Weekly Notes:
-    - [Ch 10: PDF Skeleton](https://github.com/STAT505/CH10/blob/master/CH10.pdf) ([Rmd Source Code](https://raw.githubusercontent.com/STAT505/CH10/master/CH10.Rmd))  
+   - [CH 12 PDF Skeleton](https://github.com/STAT505/CH12/blob/main/CH12.pdf) ([RMD Source Code](https://github.com/STAT505/CH12/blob/main/CH12.Rmd))    
    
 - Weekly Assignments (due Friday November 4): 
 
@@ -174,11 +175,11 @@ Course Schedule
 ### Week Twelve
 - Weekly Reading: ROS Chapter 11
 - Weekly Notes:
-   - [CH 11: Part 2, PDF Skeleton](https://github.com/STAT505/CH11/blob/main/CH11_part2.pdf) ([RMD Source Code](https://github.com/STAT505/CH11/blob/main/CH11_part2.Rmd))
+   
 - Weekly Assignments: 
 
-- Monday November 7: 
-- Wednesday November 9:
+- Monday November 7: __no class, work on take home exam__
+- Wednesday November 9: __In Class Exam__
 - Friday November 11: __no class, veterans day__
 
 [](### Week Twelve:  (Assumptions & Model Diagnostics, Part II) - Weekly Notes: - [PDF Skeleton Chapter 11, Part 2](https://github.com/STAT505/CH11/blob/main/CH11_part2.pdf) ([RMD Source Code](https://github.com/STAT505/CH11/blob/main/CH11_part2.Rmd)) - [PDF Skeleton: Chapter 12](https://github.com/STAT505/CH12/blob/main/CH12.pdf)([RMD Source Code](https://github.com/STAT505/CH12/blob/main/CH12.Rmd)) - Weekly Reading: - ROS Chapter 12.1 - 12.6 - ROS Appendix B - Monday November 2: - Project 2 Final Submission (Due at Class time on Monday) - Wednesday November 4: __Synchronous Virtual Class on Teams__ - Friday November 6:)
@@ -189,7 +190,7 @@ Course Schedule
 - Weekly Reading: ROS Chapter 12
 - Weekly Notes:
    - [2020 Exam 1](https://github.com/STAT505/midterm/blob/main/Midterm_F2020.pdf)
-   - [CH 12 PDF Skeleton](https://github.com/STAT505/CH12/blob/main/CH12.pdf) ([RMD Source Code](https://github.com/STAT505/CH12/blob/main/CH12.Rmd))
+   
 - Weekly Assignments : 
 
 - Monday November 14: 
