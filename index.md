@@ -130,7 +130,7 @@ Course Schedule
    - [Ch 9: PDF Skeleton](https://github.com/STAT505/CH9/blob/master/CH9.pdf) ([Rmd Source Code](https://raw.githubusercontent.com/STAT505/CH9/master/CH9.Rmd))
 
 
-- Monday October 17: 
+- Monday October 17: [video recording](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5f2d3e56-e338-45ba-b7f8-af3301306aa1)
 - Wednesday October 19:
 - Friday October 21:
 
