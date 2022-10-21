@@ -132,7 +132,7 @@ Course Schedule
 
 - Monday October 17: [video recording](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5f2d3e56-e338-45ba-b7f8-af3301306aa1)
 - Wednesday October 19:
-- Friday October 21:
+- Friday October 21: [video recording](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=13c69434-7078-4083-8b5f-af35013eea87)
 
 [](### Week Nine:  Midterm + Regression with multiple predictors - Weekly Notes: - [PDF Skeleton: Ch. 10](https://github.com/STAT505/CH10/blob/main/CH10.pdf) ([Rmd Source Code](https://github.com/STAT505/CH10/blob/main/CH10.Rmd)) - Weekly Reading: - ROS Chapter 10.1 - 10.6 - Virtual Coding Lab: - [Interaction with Fake Data](https://github.com/STAT505/Ch10/blob/main/Interaction_Activity.pdf) ([RMD Source Code](https://github.com/STAT505/Ch10/blob/main/Interaction_Activity.Rmd)) ([Video](https://montana.techsmithrelay.com/m9Vo)) - Monday October 12: - [HW 7 due 8 AM Tuesday](https://stat505.github.io/HW7/) ([Download GitHub Repo](https://classroom.github.com/a/4BhrVOym)) - Wednesday October 14: __Synchronous Virtual Class on Teams__ - Friday October 16: - Project 2 First Submission (Due 11:59 PM) ([Project Overview](https://github.com/STAT505/project2/blob/master/Project2_Info.pdf)) ([Download GitHub Repo](https://classroom.github.com/g/hrheG7iR)) - Take home exam assigned: ([PDF](https://github.com/STAT505/midterm/blob/main/Midterm_F2020.pdf)) ([Download GitHub Repo](https://classroom.github.com/a/wvpzSZr8)))
 
