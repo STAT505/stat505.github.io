@@ -97,7 +97,7 @@ Course Schedule
    
    
 - Weekly Assignments (due Friday October 7):  
-  - [HW6](https://github.com/STAT505/HW6) ([Download Github Repo](https://classroom.github.com/a/UizPp9Uu))
+  - [HW6](https://github.com/STAT505/HW6) ([Download Github Repo](https://classroom.github.com/a/UizPp9Uu)) ([HW 6 Key PDF](https://github.com/STAT505/HW6/blob/master/HW6_key.pdf)) ([HW 6 Key RMD](https://github.com/STAT505/HW6/blob/master/HW6_key.Rmd))
 
 - Monday October 3: [video recording](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cedcfeb7-47ab-4608-9cdc-af2400fb6d72)
 - Wednesday October 5: [video 1](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0f6e14e5-f0c1-49c8-b8cb-af26011c3b1d), [video 2](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=640bbbaf-655f-46fa-a080-af26011cb4b0)
