@@ -150,7 +150,7 @@ Course Schedule
   
 - Monday October 24: 
 - Wednesday October 26:
-- Friday October 28: __NO CLASS: ASA Chapter Meeting__ ([meeting link](https://docs.google.com/forms/d/e/1FAIpQLSdT8WbChO4p07HLO4QAZJOPYwHE8kv1Vux3pbRgh9E2UfZ4fA/viewform?usp=sf_link))
+- Friday October 28: __NO CLASS: ASA Chapter Meeting__ ([meeting registration](https://docs.google.com/forms/d/e/1FAIpQLSdT8WbChO4p07HLO4QAZJOPYwHE8kv1Vux3pbRgh9E2UfZ4fA/viewform?usp=sf_link)) ([meeting link](https://andyhoegh.github.io/MT_ASA/))
 
 
 [](### Week Ten: (Maximum Likelihood / Mathematical Statistics) - Weekly Notes: - [PDF Skeleton Chapter 8](https://github.com/STAT505/CH8/blob/main/CH8.pdf) ([RMD Source Code](https://github.com/STAT505/CH8/blob/main/CH8.Rmd)) - Weekly Reading: - ROS Chapter 8 - Monday October 19: - Wednesday October 21: __No Class, Work on Take Home Exam__ - Friday October 23: - Midterm Take Home Due 11:59 PM - _Previous Exam:_ [STAT506 Midterm](https://github.com/STAT506/midterm/blob/master/Midterm_S2020.pdf))
