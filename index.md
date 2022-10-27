@@ -149,7 +149,7 @@ Course Schedule
    
   
 - Monday October 24: 
-- Wednesday October 26:
+- Wednesday October 26: [class recording](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=881ab9ab-2dd9-400e-a087-af3b00e798b0)
 - Friday October 28: __NO CLASS: ASA Chapter Meeting__ ([meeting registration](https://docs.google.com/forms/d/e/1FAIpQLSdT8WbChO4p07HLO4QAZJOPYwHE8kv1Vux3pbRgh9E2UfZ4fA/viewform?usp=sf_link)) ([meeting link](https://andyhoegh.github.io/MT_ASA/))
 
 
