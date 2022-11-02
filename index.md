@@ -164,7 +164,7 @@ Course Schedule
    
 - Weekly Assignments (due Friday November 4): [HW8](https://github.com/STAT505/HW_8) ([Download GitHub Repo](https://classroom.github.com/a/XAf6rKjw))
 
-- Monday October 31: 
+- Monday October 31: [video recording 1](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=80c6acd9-15c4-4a50-aeaf-af4101251a2b), [video recording 2](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a304a239-2079-4940-9fe1-af410124c923)
 - Wednesday November 2:
 - Friday November 4:
 
