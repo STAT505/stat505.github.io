@@ -166,7 +166,7 @@ Course Schedule
 
 - Monday October 31: [video recording 1](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=80c6acd9-15c4-4a50-aeaf-af4101251a2b), [video recording 2](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a304a239-2079-4940-9fe1-af410124c923)
 - Wednesday November 2:
-- Friday November 4:
+- Friday November 4: [video recording](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7a2977f2-3f53-411f-8e8d-af43014c47ef)
 
 [](### Week Eleven: (Assumptions & Model Diagnostics, Part I) - Weekly Notes: - [PDF Skeleton Chapter 11, Part 1](https://github.com/STAT505/CH11/blob/main/CH11.pdf) ([RMD Source Code](https://github.com/STAT505/CH11/blob/main/CH11.Rmd)) - Weekly Reading: - ROS Chapter 11 - Monday October 26: - Wednesday October 28: __Synchronous Virtual Class on Teams__ - Friday October 30:)
 
