@@ -179,6 +179,7 @@ Course Schedule
    - [2021 Exam 1](https://github.com/STAT505/midterm2021/blob/main/Midterm_F2021.pdf) 
    
 - Weekly Assignments: 
+   - [Midterm Exam](https://github.com/STAT505/2022midterm/blob/main/Midterm_2022.pdf) ([Download GitHub Repo](https://classroom.github.com/a/lCuikude) 
 
 - Monday November 7: __no class, work on take home exam__
 - Wednesday November 9: __In Class Exam__
