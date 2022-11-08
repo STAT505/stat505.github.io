@@ -162,7 +162,7 @@ Course Schedule
 - Weekly Notes:
    - [CH 12 PDF Skeleton](https://github.com/STAT505/CH12/blob/main/CH12.pdf) ([RMD Source Code](https://github.com/STAT505/CH12/blob/main/CH12.Rmd))    
    
-- Weekly Assignments (due Friday November 4): [HW8](https://github.com/STAT505/HW_8) ([Download GitHub Repo](https://classroom.github.com/a/XAf6rKjw))
+- Weekly Assignments (due Friday November 4): [HW8](https://github.com/STAT505/HW_8) ([Download GitHub Repo](https://classroom.github.com/a/XAf6rKjw)) ([HW8 Key](https://github.com/STAT505/HW_8/blob/main/HW8_Key.pdf)) ([HW8 Key RMD](https://github.com/STAT505/HW_8/blob/main/HW8_Key.Rmd))
 
 - Monday October 31: [video recording 1](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=80c6acd9-15c4-4a50-aeaf-af4101251a2b), [video recording 2](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a304a239-2079-4940-9fe1-af410124c923)
 - Wednesday November 2:
