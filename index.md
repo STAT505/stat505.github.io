@@ -142,7 +142,7 @@ Course Schedule
 - Weekly Reading: ROS Chapter 9 
 - Weekly Notes:
    - [Ch 10: PDF Skeleton](https://github.com/STAT505/CH10/blob/master/CH10.pdf) ([Rmd Source Code](https://raw.githubusercontent.com/STAT505/CH10/master/CH10.Rmd))
-   - [CH 11: Part 2, PDF Skeleton](https://github.com/STAT505/CH11/blob/main/CH11_part2.pdf) ([RMD Source Code](https://github.com/STAT505/CH11/blob/main/CH11_part2.Rmd)) 
+  
    
   
 - Weekly Assignments (due Friday October 28): [Project 1](https://github.com/STAT505/Project_1/blob/main/Project1_Rubric.pdf) ([Download GitHub Repo](https://classroom.github.com/a/rE5BF-ZD))
@@ -159,8 +159,7 @@ Course Schedule
 
 ### Week Eleven
 - Weekly Reading: ROS Chapter 10
-- Weekly Notes:
-   - [CH 12 PDF Skeleton](https://github.com/STAT505/CH12/blob/main/CH12.pdf) ([RMD Source Code](https://github.com/STAT505/CH12/blob/main/CH12.Rmd))    
+- Weekly Notes: 
    
 - Weekly Assignments (due Friday November 4): [HW8](https://github.com/STAT505/HW_8) ([Download GitHub Repo](https://classroom.github.com/a/XAf6rKjw)) ([HW8 Key](https://github.com/STAT505/HW_8/blob/main/HW8_Key.pdf)) ([HW8 Key RMD](https://github.com/STAT505/HW_8/blob/main/HW8_Key.Rmd))
 
@@ -179,7 +178,7 @@ Course Schedule
    - [2021 Exam 1](https://github.com/STAT505/midterm2021/blob/main/Midterm_F2021.pdf) 
    
 - Weekly Assignments: 
-   - [Midterm Exam](https://github.com/STAT505/2022midterm/blob/main/Midterm_2022.pdf) ([Download GitHub Repo](https://classroom.github.com/a/lCuikude) 
+   - [Midterm Exam](https://github.com/STAT505/2022midterm/blob/main/Midterm_2022.pdf) ([Download GitHub Repo](https://classroom.github.com/a/lCuikude)) 
 
 - Monday November 7: __no class, work on take home exam__
 - Wednesday November 9: __In Class Exam__
@@ -192,9 +191,11 @@ Course Schedule
 ### Week Thirteen
 - Weekly Reading: ROS Chapter 12
 - Weekly Notes:
+   - [CH 11: Part 2, PDF Skeleton](https://github.com/STAT505/CH11/blob/main/CH11_part2.pdf) ([RMD Source Code](https://github.com/STAT505/CH11/blob/main/CH11_part2.Rmd))
+   - [CH 12 PDF Skeleton](https://github.com/STAT505/CH12/blob/main/CH12.pdf) ([RMD Source Code](https://github.com/STAT505/CH12/blob/main/CH12.Rmd))      
    
    
-- Weekly Assignments : 
+- Weekly Assignments : Project 1 Final Submission Due Monday November 21st 
 
 - Monday November 14: 
 - Wednesday November 16:
