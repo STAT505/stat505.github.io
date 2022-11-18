@@ -195,7 +195,7 @@ Course Schedule
    - [CH 12 PDF Skeleton](https://github.com/STAT505/CH12/blob/main/CH12.pdf) ([RMD Source Code](https://github.com/STAT505/CH12/blob/main/CH12.Rmd))      
    
    
-- Weekly Assignments : Project 1 Final Submission Due Monday November 21st 
+- Weekly Assignments : Project 1 Final Submission Due Monday November 21st (Note projects can be submitted until Monday November 28th at 8AM, but projects submitted by November 21st will get a 5 point bonus)
 
 - Monday November 14: 
 - Wednesday November 16:
@@ -220,6 +220,7 @@ Course Schedule
 - Weekly Notes:
    - [CH 13 PDF Skeleton](https://github.com/STAT505/CH13/blob/main/CH13.pdf) ([RMD Source Code](https://raw.githubusercontent.com/STAT505/CH13/main/CH13.Rmd))  
 - Weekly Assignments (due December 2): 
+   - HW 9  
 
 - Monday November 28: 
 - Wednesday November 30: 
@@ -235,7 +236,7 @@ Course Schedule
    - [CH 14 PDF Skeleton](https://github.com/STAT505/CH14/blob/main/CH14.pdf) ([RMD Source Code](https://raw.githubusercontent.com/STAT505/CH14/main/CH14.Rmd))  
    - [2020 Final Exam](https://github.com/STAT505/final/blob/main/Final_F2020.pdf)  
 - Weekly Assignments (due December 9): 
-   - [HW8](https://stat505.github.io/HW8/) 
+   - Project 2
 
 - Monday December 5: 
 - Wednesday December 7: 
@@ -244,8 +245,13 @@ Course Schedule
 ---
 
 ### Week Seventeen
+- Weekly Notes:
+   - [2021 Final Exam](https://github.com/STAT505/FinalExam/blob/main/TakehomeFinal_F2021.pdf)
 
-- Monday December 12: __in class final exam 12 - 1:50__ 
+- Weekly Assignments: 
+   - Take Home Exam (assigned December 9th, due date TBD) 
+   - In Class Exam (Date TBD)
+   - Class Review Session (Date/Time TBD)
 
 ---
 
