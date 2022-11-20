@@ -199,7 +199,7 @@ Course Schedule
 
 - Monday November 14: [video lecture](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1de49530-1744-4e62-b761-af4f01493696)
 - Wednesday November 16: [video lecture 1](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=aae7ae99-488b-4b90-bd8d-af4f0184ae00) [video lecture 2](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=35921bf8-fd74-4698-8447-af4f01848825)
-- Friday November 18: 
+- Friday November 18: [video lecture](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=12fc5c10-02ae-41ef-961c-af520054f6c2)
 
 [](### Week Thirteen: (Logistic Regression) - Weekly Notes: - [PDF Skeleton: Chapter 13](https://github.com/STAT505/CH13/blob/main/CH13.pdf) ([RMD Source Code](https://github.com/STAT505/CH13/blob/main/CH13.Rmd)) - Weekly Reading: __Synchronous Virtual Class on Teams__ - Chapter 13 - Monday November 9: - [HW 8 due 8 AM Tuesday](https://stat505.github.io/HW8/) ([Download GitHub Repo](https://classroom.github.com/a/sC1-buk4)) - Wednesday November 11: __No Class: Veteran's Day__ - Friday November 13:)
 
