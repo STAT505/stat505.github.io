@@ -219,8 +219,8 @@ Course Schedule
 - Weekly Reading: ROS Chapter 13
 - Weekly Notes:
    - [CH 13 PDF Skeleton](https://github.com/STAT505/CH13/blob/main/CH13.pdf) ([RMD Source Code](https://raw.githubusercontent.com/STAT505/CH13/main/CH13.Rmd))  
-- Weekly Assignments (due December 2): 
-   - HW 9  
+- Weekly Assignments (due Friday December 2): 
+   - [HW 9](https://github.com/STAT505/HW_9/blob/main/HW9.md) ([Download GitHub Repo](https://classroom.github.com/a/-h5t2XpE))
 
 - Monday November 28: 
 - Wednesday November 30: 
@@ -235,7 +235,7 @@ Course Schedule
 - Weekly Notes:
    - [CH 14 PDF Skeleton](https://github.com/STAT505/CH14/blob/main/CH14.pdf) ([RMD Source Code](https://raw.githubusercontent.com/STAT505/CH14/main/CH14.Rmd))  
    - [2020 Final Exam](https://github.com/STAT505/final/blob/main/Final_F2020.pdf)  
-- Weekly Assignments (due December 9): 
+- Weekly Assignments (due Friday December 9): 
    - Project 2
 
 - Monday December 5: 
