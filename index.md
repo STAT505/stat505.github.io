@@ -236,7 +236,7 @@ Course Schedule
    - [CH 14 PDF Skeleton](https://github.com/STAT505/CH14/blob/main/CH14.pdf) ([RMD Source Code](https://raw.githubusercontent.com/STAT505/CH14/main/CH14.Rmd))  
    - [2020 Final Exam](https://github.com/STAT505/final/blob/main/Final_F2020.pdf)  
 - Weekly Assignments (due Friday December 9): 
-   - Project 2
+   - [Project 2](https://github.com/STAT505/Project_2/blob/main/Project2_Info2022.pdf) ([Download GitHub Repo](https://classroom.github.com/a/p5scQl-N))
 
 - Monday December 5: 
 - Wednesday December 7: 
