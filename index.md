@@ -222,7 +222,7 @@ Course Schedule
 - Weekly Assignments (due Friday December 2): 
    - [HW 9](https://github.com/STAT505/HW_9/blob/main/HW9.md) ([Download GitHub Repo](https://classroom.github.com/a/-h5t2XpE))
 
-- Monday November 28: 
+- Monday November 28: [video lecture](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d4b6aa8e-e9ce-41d6-be7f-af5c012c917a)
 - Wednesday November 30: 
 - Friday December 2: 
 
