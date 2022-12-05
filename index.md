@@ -231,10 +231,12 @@ Course Schedule
 ---
 
 ### Week Sixteen
-- Weekly Reading: ROS Chapter 14
+- Weekly Reading: ROS Chapter 14 & Chapter 15.1 - 15.2
 - Weekly Notes:
-   - [CH 14 PDF Skeleton](https://github.com/STAT505/CH14/blob/main/CH14.pdf) ([RMD Source Code](https://raw.githubusercontent.com/STAT505/CH14/main/CH14.Rmd))  
-   - [2020 Final Exam](https://github.com/STAT505/final/blob/main/Final_F2020.pdf)  
+   - [CH 14 PDF Skeleton](https://github.com/STAT505/CH14/blob/main/CH14.pdf) ([RMD Source Code](https://raw.githubusercontent.com/STAT505/CH14/main/CH14.Rmd))
+   - [CH 15 PDF Skelton](https://github.com/andyhoegh/CH15/blob/main/GLMs.pdf) ([RMD Source Code](https://github.com/andyhoegh/CH15/blob/main/GLMs.Rmd))  
+   - [2020 Final Exam](https://github.com/STAT505/final/blob/main/Final_F2020.pdf)
+   - [2021 Final Exam](https://github.com/STAT505/FinalExam/blob/main/TakehomeFinal_F2021.pdf)  
 - Weekly Assignments (due Friday December 9): 
    - [Project 2](https://github.com/STAT505/Project_2/blob/main/Project2_Info2022.pdf) ([Download GitHub Repo](https://classroom.github.com/a/p5scQl-N))
 
