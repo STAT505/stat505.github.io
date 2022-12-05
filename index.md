@@ -223,8 +223,8 @@ Course Schedule
    - [HW 9](https://github.com/STAT505/HW_9/blob/main/HW9.md) ([Download GitHub Repo](https://classroom.github.com/a/-h5t2XpE))
 
 - Monday November 28: [video lecture](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d4b6aa8e-e9ce-41d6-be7f-af5c012c917a)
-- Wednesday November 30: 
-- Friday December 2: 
+- Wednesday November 30: [video lecture](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cbbd0bb4-c1c9-4000-bf87-af62010bcf9a)
+- Friday December 2: [video lecture 1](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=936e5dd7-65ae-4ffb-adff-af62010c0de4), [video lecture 2](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a8d915a6-718a-4484-a3c9-af62010c52ac)
 
 [](### Week Fifteen (finals week):  - [Take home Exam Due Wednesday at 11:59 PM](https://github.com/STAT505/final/blob/main/Final_F2020.pdf) ([RMD Source Code](https://raw.githubusercontent.com/STAT505/final/main/Final_F2020.Rmd)) ([Download Github Repo](https://classroom.github.com/a/SFYX2TUS))) 
 
