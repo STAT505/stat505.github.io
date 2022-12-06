@@ -236,7 +236,8 @@ Course Schedule
    - [CH 14 PDF Skeleton](https://github.com/STAT505/CH14/blob/main/CH14.pdf) ([RMD Source Code](https://raw.githubusercontent.com/STAT505/CH14/main/CH14.Rmd))
    - [CH 15 PDF Skelton](https://github.com/andyhoegh/CH15/blob/main/GLMs.pdf) ([RMD Source Code](https://github.com/andyhoegh/CH15/blob/main/GLMs.Rmd))  
    - [2020 Final Exam](https://github.com/STAT505/final/blob/main/Final_F2020.pdf)
-   - [2021 Final Exam](https://github.com/STAT505/FinalExam/blob/main/TakehomeFinal_F2021.pdf)  
+   - [2021 Final Exam](https://github.com/STAT505/FinalExam/blob/main/TakehomeFinal_F2021.pdf) 
+   - [2021 Inclass Final Exam](https://github.com/STAT505/FinalExam/blob/main/InclassFinal_F2021key.pdf) 
 - Weekly Assignments (due Friday December 9): 
    - [Project 2](https://github.com/STAT505/Project_2/blob/main/Project2_Info2022.pdf) ([Download GitHub Repo](https://classroom.github.com/a/p5scQl-N))
 
@@ -248,7 +249,6 @@ Course Schedule
 
 ### Week Seventeen
 - Weekly Notes:
-   - [2021 Final Exam](https://github.com/STAT505/FinalExam/blob/main/TakehomeFinal_F2021.pdf)
 
 - Weekly Assignments: 
    - Take Home Exam (assigned December 9th, due date TBD) 
