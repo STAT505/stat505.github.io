@@ -240,7 +240,7 @@ Course Schedule
 - Weekly Assignments (due Friday December 9): 
    - [Project 2](https://github.com/STAT505/Project_2/blob/main/Project2_Info2022.pdf) ([Download GitHub Repo](https://classroom.github.com/a/p5scQl-N))
 
-- Monday December 5: 
+- Monday December 5: [video lecture](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=766718a1-35d9-452f-b5c6-af630101df01)
 - Wednesday December 7: 
 - Friday December 9: 
 
