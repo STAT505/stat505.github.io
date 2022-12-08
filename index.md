@@ -238,7 +238,7 @@ Course Schedule
    - [2020 Final Exam](https://github.com/STAT505/final/blob/main/Final_F2020.pdf)
    - [2021 Final Exam](https://github.com/STAT505/FinalExam/blob/main/TakehomeFinal_F2021.pdf) 
    - [2021 Inclass Final Exam](https://github.com/STAT505/FinalExam/blob/main/InclassFinal_F2021key.pdf) 
-- Weekly Assignments (due Friday December 9): 
+- Weekly Assignments (due Sunday December 11 at 9 AM): 
    - [Project 2](https://github.com/STAT505/Project_2/blob/main/Project2_Info2022.pdf) ([Download GitHub Repo](https://classroom.github.com/a/p5scQl-N))
 
 - Monday December 5: [video lecture](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=766718a1-35d9-452f-b5c6-af630101df01)
