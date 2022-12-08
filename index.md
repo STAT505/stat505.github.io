@@ -243,7 +243,7 @@ Course Schedule
 
 - Monday December 5: [video lecture](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=766718a1-35d9-452f-b5c6-af630101df01)
 - Wednesday December 7: 
-- Friday December 9: 
+- Friday December 9: Class Review Session 
 
 ---
 
@@ -251,9 +251,12 @@ Course Schedule
 - Weekly Notes:
 
 - Weekly Assignments: 
-   - Take Home Exam (assigned December 9th, due date TBD) 
-   - In Class Exam (Date TBD)
-   - Class Review Session (Date/Time TBD)
+   - Take Home Exam (assigned December 9th, due Friday December 16th at 9 AM) 
+   - In Class Exam (optional, tests will be in the Math Testing Center, Wilson 1-110)
+      - Monday 9 - 5
+      - Tuesday 9 - 5
+      - Wednesday 11 - 5
+      - Thursday 9 - 3  
 
 ---
 
