@@ -234,7 +234,7 @@ Course Schedule
 - Weekly Reading: ROS Chapter 14 & Chapter 15.1 - 15.2
 - Weekly Notes:
    - [CH 14 PDF Skeleton](https://github.com/STAT505/CH14/blob/main/CH14.pdf) ([RMD Source Code](https://raw.githubusercontent.com/STAT505/CH14/main/CH14.Rmd))
-   - [CH 15 PDF Skelton](https://github.com/andyhoegh/CH15/blob/main/GLMs.pdf) ([RMD Source Code](https://github.com/andyhoegh/CH15/blob/main/GLMs.Rmd))  
+  
    - [2020 Final Exam](https://github.com/STAT505/final/blob/main/Final_F2020.pdf)
    - [2021 Final Exam](https://github.com/STAT505/FinalExam/blob/main/TakehomeFinal_F2021.pdf) 
    - [2021 Inclass Final Exam](https://github.com/STAT505/FinalExam/blob/main/InclassFinal_F2021key.pdf) 
@@ -248,8 +248,8 @@ Course Schedule
 ---
 
 ### Week Seventeen
-- Weekly Notes:
-
+- Weekly Notes: [CH 15 PDF Skelton](https://github.com/andyhoegh/CH15/blob/main/GLMs.pdf) ([RMD Source Code](https://github.com/andyhoegh/CH15/blob/main/GLMs.Rmd))  
+- [Virtual Lecture GLMs](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=95df269d-2a20-4b5a-8bfa-af6601087189)
 - Weekly Assignments: 
    - Take Home Exam (assigned December 9th, due Friday December 16th at 9 AM) 
    - In Class Exam (optional, tests will be in the Math Testing Center, Wilson 1-110)
