@@ -243,7 +243,7 @@ Course Schedule
 
 - Monday December 5: [video lecture](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=766718a1-35d9-452f-b5c6-af630101df01)
 - Wednesday December 7: [video lecture](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8e4e5e5a-a911-4e1e-9f23-af65012fa5af)
-- Friday December 9: Class Review Session 
+- Friday December 9: Class Review Session [video lecture](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ce3230fd-7da4-4f7d-96b8-af6601613637) [video lecture, part 2](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9ddaa8ee-7dc0-44ac-ae7e-af6601619283)
 
 ---
 
@@ -251,7 +251,7 @@ Course Schedule
 - Weekly Notes: [CH 15 PDF Skelton](https://github.com/andyhoegh/CH15/blob/main/GLMs.pdf) ([RMD Source Code](https://github.com/andyhoegh/CH15/blob/main/GLMs.Rmd))  
 - [Virtual Lecture GLMs](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=95df269d-2a20-4b5a-8bfa-af6601087189)
 - Weekly Assignments: 
-   - Take Home Exam (assigned December 9th, due Friday December 16th at 9 AM) 
+   - Take Home Exam (assigned December 9th, due Friday December 16th at 9 AM) [PDF](https://github.com/STAT505/FinalExam/blob/main/Final_2022.pdf) ([Download GitHub Repo](https://classroom.github.com/a/h5M4Gj8W))
    - In Class Exam (optional, tests will be in the Math Testing Center, Wilson 1-110)
       - Monday 9 - 5
       - Tuesday 9 - 5
